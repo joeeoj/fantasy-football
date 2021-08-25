@@ -22,6 +22,18 @@ You need to understand the effect fantasy scoring rules have on positions **for 
 * The biggest variation is with the top three players that are much better than the rest
 * There are also "natural tiers" aka (RB1, RB2, etc) visible in the data
 
+## 3-10-20
+
+* average top 1,2,3 ranks by position
+* average 4 through 10
+* average 11 through 20
+
+Roughly this gvies you:
+
+* 1-3 (great) - top tier players that will score big or huge points
+* 4-10 (good) - the rest of the starts drafted in the league
+* 11-20 (backup) - backup/second tier players
+
 ----------
 
 ## samuel gold
