@@ -63,7 +63,7 @@ def download_all_players(league: League) -> List[Player]:
 def rank_by_position(players: List[Player], rank_col: str) -> List[Player]:
     players_copy = [copy.deepcopy(p) for p in players]  # avoid mutating in place
 
-    for pos in ['QB', 'RB', 'WR', 'TE', 'K', 'D/ST', 'DT']:
+    for pos in ['QB', 'RB', 'WR', 'TE', 'K', 'P', 'D/ST', 'DT']:
         by_pos = sorted([p for p in players_copy if p.pos == pos], key=lambda p: getattr(p, rank_col), reverse=True)
         for p, i in zip(by_pos, range(1, len(by_pos)+1)):
             p.rank = i
