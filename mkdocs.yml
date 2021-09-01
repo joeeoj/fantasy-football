@@ -1,0 +1,21 @@
+site_name: Fantasy Football
+repo_url: https://github.com/joeeoj/fantasy-football
+repo_name: code
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: silver
+  font:
+    text: Ubuntu
+  icon:
+    logo: material/football
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+markdown_extensions:
+  - pymdownx.arithmatex
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - footnotes
+  - codehilite:
+      linenums: false
