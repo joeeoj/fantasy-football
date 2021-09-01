@@ -63,6 +63,19 @@ CREATE TABLE strength_of_schedule (
     FOREIGN KEY (team_abbr) REFERENCES teams (official_team_abbr)
 );
 
+CREATE TABLE injuries (
+    year INTEGER,
+    player_id TEXT,
+    name TEXT,
+    position TEXT,
+    team TEXT,
+    est_missed_games INTEGER,
+    notes TEXT,
+
+    FOREIGN KEY (player_id) REFERENCES players (player_id),
+    FOREIGN KEY (team) REFERENCES teams (official_team_abbr)
+);
+
 .separator ","
 
 .import --csv --skip 1 ../data/teams.csv teams
@@ -76,6 +89,8 @@ CREATE TABLE strength_of_schedule (
 .import --csv --skip 1 ../data/byes.csv byes
 
 .import --csv --skip 1 ../data/strength_of_schedule.csv strength_of_schedule
+
+.import --csv --skip 1 ../data/injuries.csv injuries
 
 CREATE INDEX IX_players_year_team ON players (year, team);
 CREATE INDEX IX_players_pos ON players (fantasy_pos);
