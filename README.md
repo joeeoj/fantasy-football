@@ -2,4 +2,4 @@
 
 Most of this is 2021 focused. We'll see how much of it "works" and is transferable to next year.
 
-https://joeeoj.github.io/fantasy-football/
+[Project documentation](https://joeeoj.github.io/fantasy-football/)
