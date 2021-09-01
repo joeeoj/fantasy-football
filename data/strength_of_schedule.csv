@@ -1,0 +1,33 @@
+rank,team,team_abbr,opponents_combined_2020_record,opponents_combined_2020_win_pct
+1,Steelers,PIT,155-115-2,0.574
+2,Ravens,BLT,152-118-2,0.563
+3,Bears,CHI,149-122-1,0.550
+4,Packers,GB, 147-124-1,0.542
+5,Vikings,MIN,144-127-1,0.531
+6,Bengals,CIN,144-128,0.529
+6,Lions,DET,143-127-2,0.529
+8,Raiders,LV, 142-128-2,0.526
+9,Browns,CLV,140-130-2,0.518
+10,Rams,LAR,140-132,0.515
+11,Chiefs,KC, 138-132-2,0.511
+11,Seahawks,SEA,139-133,0.511
+13,Titans,TEN,138-134,0.507
+13,Cardinals,ARZ,138-134,0.507
+15,Washington,WAS,136-134-2,0.504
+15,Texans,HST,137-135,0.504
+17,Chargers,LAC,133-137-2,0.493
+18,Jaguars,JAX,133-138-1,0.491
+19,49ers,SF, 132-138-2,0.489
+19,Jets,NYJ,132-138-2,0.489
+19,Patriots,NE, 133-139,0.489
+22,Saints,NO, 131-140-1,0.483
+23,Bills,BUF,130-142,0.478
+23,Colts,IND,130-142,0.478
+25,Giants,NYG,128-142-2,0.474
+26,Panthers,CAR,128-143-1,0.472
+27,Broncos,DEN,127-143-2,0.471
+27,Dolphins,MIA,128-144,0.471
+29,Buccaneers,TB, 126-145-1,0.465
+30,Falcons,ATL,123-148-1,0.454
+31,Cowboys,DAL,122-148-2,0.452
+32,Eagles,PHI,117-155,0.430

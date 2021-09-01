@@ -1,0 +1,36 @@
+official_abbr,other_abbr,pro_football_ref_abbr,fullname,active
+ARZ,ARI,ARI,Arizona Cardinals,1
+ATL,ATL,ATL,Atlanta Falcons,1
+BLT,BAL,BAL,Baltimore Ravens,1
+BUF,BUF,BUF,Buffalo Bills,1
+CAR,CAR,CAR,Carolina Panthers,1
+CHI,CHI,CHI,Chicago Bears,1
+CIN,CIN,CIN,Cincinnati Bengals,1
+CLV,CLE,CLE,Cleveland Browns,1
+DAL,DAL,DAL,Dallas Cowboys,1
+DEN,DEN,DEN,Denver Broncos,1
+DET,DET,DET,Detroit Lions,1
+GB,GB,GNB,Green Bay Packers,1
+HST,HOU,HOU,Houston Texans,1
+IND,IND,IND,Indianapolis Colts,1
+JAX,JAC,JAX,Jacksonville Jaguars,1
+KC,KC,KAN,Kansas City Chiefs,1
+LV,LV,LVR,Las Vegas Raiders,1
+LAC,LAC,LAC,Los Angeles Chargers,1
+LAR,LAR,LAR,Los Angeles Rams,1
+MIA,MIA,MIA,Miami Dolphins,1
+MIN,MIN,MIN,Minnesota Vikings,1
+NE,NE,NWE,New England Patriots,1
+NO,NO,NOR,New Orleans Saints,1
+NYG,NYG,NYG,New York Giants,1
+NYJ,NYJ,NYJ,New York Jets,1
+PHI,PHI,PHI,Philadelphia Eagles,1
+PIT,PIT,PIT,Pittsburgh Steelers,1
+SF,SF,SFO,San Francisco 49ers,1
+SEA,SEA,SEA,Seattle Seahawks,1
+TB,TB,TAM,Tampa Bay Buccaneers,1
+TEN,TEN,TEN,Tennessee Titans,1
+WAS,WAS,WAS,Washington Football Team,1
+2TM,2TM,2TM,Two or more teams,0
+SDC,LAC,SDG,San Diego Chargers,0
+OAK,LV,OAK,Oakland Raiders,0
