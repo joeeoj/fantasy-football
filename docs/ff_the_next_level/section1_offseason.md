@@ -12,16 +12,19 @@ You need to understand the effect fantasy scoring rules have on positions **for 
 * The biggest variation is with the top three players that are much better than the rest
 * There are also "natural tiers" aka (RB1, RB2, etc) visible in the data
 
-![LAG analysis using 2020 data from my league](/charts/top20_by_pos_2020.png)
+![LAG analysis using 2020 data from my league](../charts/top20_by_pos_2020.png)
+
+_from lag.ipynb[^1]_
 
 ## 3-10-20
 
-averages groupings of top ranked players by position
+averages groupings of top ranked players by position:
+
 * avg top 1, 2, and 3
 * avg 4 through 10
 * avg 11 through 20
 
-![3-10-20 chart using 2020 data from my league](/charts/3_10_20.png)
+![3-10-20 chart using 2020 data from my league](../charts/3_10_20.png)
 
 ## PPR
 
@@ -49,4 +52,4 @@ PPR increases the value of thid-down backs (not starters). In other words it mak
 2. yards per catch - same because they have fewer catches per yard relative to less "productive" receivers
 3. possesion receivers - they **increase** in value since they have more PPR points
 
-[^1]: [https://www.goodreads.com/en/book/show/343502.Fantasy_Football_The_Next_Level](https://www.goodreads.com/en/book/show/343502.Fantasy_Football_The_Next_Level)
+[^1]: [full notebook on nbviewer](https://nbviewer.jupyter.org/github/joeeoj/fantasy-football/blob/main/lag.ipynb)
