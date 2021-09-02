@@ -30,6 +30,12 @@ POSITIONS = {
     16: 'DST',
 }
 
+# one-off fixes
+# player_id, col, val
+FIXES = [
+    # ESPN Wesco as a RB which is wrong for number 85 here
+    (4039253, 'pos', 'TE'),
+]
 
 def download_data(year: int) -> List[dict]:
     url = URL.format(year=year)
@@ -51,7 +57,7 @@ def parse_player(p: dict) -> dict:
     avg_draft_post = floor(ownership.get('averageDraftPosition'))
 
     return {
-        'player_id': player.get('id'),
+        'player_id': int(player.get('id')),
         'name': player.get('fullName'),
         'pos': POSITIONS.get(player.get('defaultPositionId')),
         'ppr_rank': ppr_rank,
@@ -61,6 +67,26 @@ def parse_player(p: dict) -> dict:
         'avg_auc_value': avg_auc_value,
         'auc_diff': avg_auc_value - ppr_auc_value,
     }
+
+
+def fix_errors(players: List[dict]) -> List[dict]:
+    """Unfortunately not performant but it only needs to parse through 1k rows so not a big deal"""
+    search_keys = set([f[0] for f in FIXES])
+    output_list, to_fix = [], []
+
+    for p in players:
+        if p['player_id'] in search_keys:
+            to_fix.append(p)
+        else:
+            output_list.append(p)
+
+    for p in to_fix:
+        for pid, col, val in FIXES:
+            if p['player_id'] == pid:
+                p[col] = val
+        output_list.append(p)
+
+    return output_list
 
 
 def write_to_csv(players: List[dict], fout: str) -> None:
@@ -83,5 +109,8 @@ if __name__ == '__main__':
     parsed = [parse_player(p) for p in players if parse_player(p) is not None]
     print(f'Total parsed players: {len(parsed):,}')
 
+    fixed_players = fix_errors(parsed)
+    assert len(parsed) == len(fixed_players)
+
     fout = args.fout.format(year=args.year) if '{year}' in args.fout else args.fout
-    write_to_csv(parsed, fout)
+    write_to_csv(fixed_players, fout)
