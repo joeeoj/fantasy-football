@@ -1,5 +1,7 @@
 # section 1 - off-season
 
+_Fantasy Football The Next Level: How to Build a Championship Team Every Season[^1]_
+
 ## League Analysis and Graphing (LAG)
 
 You need to understand the effect fantasy scoring rules have on positions **for this year**.
@@ -14,7 +16,7 @@ You need to understand the effect fantasy scoring rules have on positions **for 
 
 ![LAG analysis using 2020 data from my league](../charts/top20_by_pos_2020.png)
 
-_from lag.ipynb[^1]_
+_from lag.ipynb[^2]_
 
 ## 3-10-20
 
@@ -52,4 +54,5 @@ PPR increases the value of thid-down backs (not starters). In other words it mak
 2. yards per catch - same because they have fewer catches per yard relative to less "productive" receivers
 3. possesion receivers - they **increase** in value since they have more PPR points
 
-[^1]: [full notebook on nbviewer](https://nbviewer.jupyter.org/github/joeeoj/fantasy-football/blob/main/lag.ipynb)
+[^1]: [https://www.goodreads.com/en/book/show/343502.Fantasy_Football_The_Next_Level](https://www.goodreads.com/en/book/show/343502.Fantasy_Football_The_Next_Level)
+[^2]: [full notebook on nbviewer](https://nbviewer.jupyter.org/github/joeeoj/fantasy-football/blob/main/lag.ipynb)
