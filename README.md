@@ -17,8 +17,8 @@ The current goal (besides learning) is to generate projections that include play
 * half PPR
 * 1 QB / 2 RB / 3 WR / 1 TE / 1 FLEX / 1 K / 1 DST
 * 5 bench / 1 IR
-* $200 salary cap draft
-* $100 free agent budget
+* 200 salary cap draft
+* 100 free agent budget
 
 ## tooling
 
@@ -49,3 +49,11 @@ It provides a convenient way to query the data and also enforces foreign key rel
 ### `code/espn_draft_trends.py`
 
 Parses the [ESPN Live Draft Trends](https://fantasy.espn.com/football/livedraftresults) with a focus on PPR and Salary Cap data.
+
+----------
+
+## draft day resources
+
+* `data/cheatsheet_2021.csv` - ESPN draft data merged with FantasyPros recommendations
+* `data/sg_all_projections_2021.csv` - SG projections and notes for half PPR, 12 team
+* `data.db` - maybe helpful for randomly looking up a player, though pro-football-reference might be faster
