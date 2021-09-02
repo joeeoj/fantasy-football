@@ -1,7 +1,7 @@
 player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,auc_diff
-3117251,Christian McCaffrey,RB,1,1,0,62,71,9
+3117251,Christian McCaffrey,RB,1,1,0,62,72,10
 3116593,Dalvin Cook,RB,2,2,0,59,67,8
-3929630,Saquon Barkley,RB,3,6,3,59,57,-2
+3929630,Saquon Barkley,RB,3,7,4,59,57,-2
 3054850,Alvin Kamara,RB,4,4,0,58,65,7
 3043078,Derrick Henry,RB,5,4,-1,56,64,8
 15847,Travis Kelce,TE,6,8,2,53,55,2
@@ -13,14 +13,14 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 3128720,Nick Chubb,RB,12,12,0,45,50,5
 3116406,Tyreek Hill,WR,13,11,-2,44,51,7
 4360294,Antonio Gibson,RB,14,19,5,43,43,0
-4241457,Najee Harris,RB,15,18,3,42,45,3
-2976212,Stefon Diggs,WR,16,16,0,40,44,4
+4241457,Najee Harris,RB,15,17,2,42,45,3
+2976212,Stefon Diggs,WR,16,16,0,40,45,5
 15795,DeAndre Hopkins,WR,17,18,1,38,41,3
 3925357,Calvin Ridley,WR,18,20,2,37,39,2
 4047650,DK Metcalf,WR,19,18,-1,36,40,4
 4047646,A.J. Brown,WR,20,25,5,35,33,-2
-4262921,Justin Jefferson,WR,21,25,4,34,34,0
-3116385,Joe Mixon,RB,22,26,4,33,35,2
+4262921,Justin Jefferson,WR,21,25,4,34,35,1
+3116385,Joe Mixon,RB,22,25,3,33,35,2
 4242214,Clyde Edwards-Helaire,RB,23,29,6,32,33,1
 2576925,Darren Waller,TE,24,25,1,32,32,0
 3121422,Terry McLaurin,WR,25,30,5,31,29,-2
@@ -35,77 +35,77 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 16737,Mike Evans,WR,34,34,0,23,23,0
 2976499,Amari Cooper,WR,35,41,6,22,20,-2
 4259545,D'Andre Swift,RB,36,48,12,22,18,-4
-3919596,Chris Carson,RB,37,44,7,22,22,0
+3919596,Chris Carson,RB,37,43,6,22,22,0
 16460,Adam Thielen,WR,38,46,8,21,18,-3
 3116165,Chris Godwin,WR,39,47,8,21,18,-3
 2577327,Tyler Lockett,WR,40,49,9,20,16,-4
 3932905,Diontae Johnson,WR,41,56,15,19,13,-6
 2977187,Cooper Kupp,WR,42,50,8,19,16,-3
 13982,Julio Jones,WR,43,50,7,18,17,-1
-3915416,DJ Moore,WR,44,58,14,17,12,-5
+3915416,DJ Moore,WR,44,58,14,17,13,-4
 4360438,Brandon Aiyuk,WR,45,64,19,17,11,-6
-4239993,Tee Higgins,WR,46,66,20,15,10,-5
+4239993,Tee Higgins,WR,46,65,19,15,10,-5
 4047365,Josh Jacobs,RB,47,43,-4,15,20,5
-3119195,Chase Edmonds,RB,48,63,15,14,10,-4
+3119195,Chase Edmonds,RB,48,62,14,14,10,-4
 3139477,Patrick Mahomes,QB,49,19,-30,13,34,21
 3918298,Josh Allen,QB,51,30,-21,13,23,10
-3051926,Gus Edwards,RB,53,104,51,12,8,-4
+3051926,Gus Edwards,RB,53,94,41,12,9,-3
 4361579,Javonte Williams,RB,54,71,17,11,9,-2
 3059915,Kareem Hunt,RB,55,62,7,11,11,0
-3886818,Myles Gaskin,RB,56,69,13,10,9,-1
+3886818,Myles Gaskin,RB,56,69,13,10,10,0
 2974858,Kenny Golladay,WR,57,76,19,10,7,-3
 16733,Odell Beckham Jr.,WR,58,70,12,10,9,-1
 3120348,JuJu Smith-Schuster,WR,59,71,12,10,7,-3
 2574808,Robby Anderson,WR,60,77,17,9,6,-3
-3128429,Courtland Sutton,WR,61,83,22,9,6,-3
-3116365,Mark Andrews,TE,63,49,-14,9,11,2
+3128429,Courtland Sutton,WR,61,83,22,9,5,-4
+3116365,Mark Andrews,TE,63,48,-15,9,11,2
 4036133,T.J. Hockenson,TE,64,62,-2,8,8,0
-4360248,Kyle Pitts,TE,65,52,-13,8,12,4
+4360248,Kyle Pitts,TE,65,52,-13,8,13,5
 3917315,Kyler Murray,QB,66,40,-26,8,16,8
 4241463,Jerry Jeudy,WR,68,75,7,7,7,0
 4046692,Chase Claypool,WR,70,77,7,7,6,-1
 4362628,Ja'Marr Chase,WR,71,83,12,7,5,-2
 2577417,Dak Prescott,QB,72,58,-14,7,10,3
 3916387,Lamar Jackson,QB,74,46,-28,6,14,8
-3025433,Mike Davis,RB,76,75,-1,6,8,2
-3925347,Damien Harris,RB,77,82,5,6,6,0
+3025433,Mike Davis,RB,76,74,-2,6,8,2
+3925347,Damien Harris,RB,77,81,4,6,7,1
 3052876,William Fuller V,WR,78,96,18,6,3,-3
 16731,Brandin Cooks,WR,79,90,11,6,3,-3
 3045144,Tyler Boyd,WR,80,96,16,6,3,-3
 4243160,Laviska Shenault Jr.,WR,81,98,17,5,3,-2
 4036348,Michael Gallup,WR,84,100,16,5,2,-3
 16813,Logan Thomas,TE,85,73,-12,5,5,0
-4241478,DeVonta Smith,WR,86,94,8,5,4,-1
+4241478,DeVonta Smith,WR,86,93,7,5,4,-1
 3126486,Deebo Samuel,WR,87,102,15,4,2,-2
 8439,Aaron Rodgers,QB,88,49,-39,4,12,8
-14881,Russell Wilson,QB,90,58,-32,4,10,6
+14881,Russell Wilson,QB,90,58,-32,4,11,7
 4038941,Justin Herbert,QB,92,68,-24,4,8,4
 4036131,Noah Fant,TE,94,92,-2,4,3,-1
 2976316,Michael Thomas,WR,95,94,-1,4,5,1
 3115394,DJ Chark Jr.,WR,96,114,18,4,2,-2
-15072,Marvin Jones Jr.,WR,98,115,17,4,1,-3
+15072,Marvin Jones Jr.,WR,98,116,18,4,1,-3
 3042778,Corey Davis,WR,99,108,9,4,2,-2
-4039359,Darrell Henderson Jr.,RB,100,94,-6,3,6,3
-2576414,Raheem Mostert,RB,101,91,-10,3,5,2
-4241372,Marquise Brown,WR,102,119,17,3,1,-2
+4039359,Darrell Henderson Jr.,RB,100,95,-5,3,5,2
+2576414,Raheem Mostert,RB,101,90,-11,3,5,2
+4241372,Marquise Brown,WR,102,118,16,3,1,-2
 16790,Jarvis Landry,WR,104,106,2,3,2,-1
 3121427,Curtis Samuel,WR,105,123,18,3,1,-2
 3045138,Mike Williams,WR,106,127,21,3,1,-2
 13934,Antonio Brown,WR,107,111,4,3,2,-1
-3128721,Sony Michel,RB,108,103,-5,3,3,0
+3128721,Sony Michel,RB,108,99,-9,3,3,0
 4372016,Jaylen Waddle,WR,110,116,6,3,2,-1
 4241475,Henry Ruggs III,WR,111,121,10,2,1,-1
-3115364,Leonard Fournette,RB,112,97,-15,2,3,1
-2979843,Kenyan Drake,RB,113,111,-2,2,2,0
+3115364,Leonard Fournette,RB,112,98,-14,2,3,1
+2979843,Kenyan Drake,RB,113,110,-3,2,2,0
 4035676,Zack Moss,RB,114,119,5,2,2,0
 2576434,Melvin Gordon III,RB,116,108,-8,2,3,1
 4239934,AJ Dillon,RB,117,122,5,2,2,0
 3045147,James Conner,RB,118,121,3,2,2,0
-4240657,Michael Carter,RB,119,128,9,2,1,-1
+4240657,Michael Carter,RB,119,129,10,2,1,-1
 2980453,Jamaal Williams,RB,120,133,13,2,1,-1
-3054212,Jonnu Smith,TE,123,120,-3,2,1,-1
+3054212,Jonnu Smith,TE,123,118,-5,2,1,-1
 3121023,Dallas Goedert,TE,124,99,-25,2,2,0
-2975674,Robert Tonyan,TE,125,95,-30,2,2,0
+2975674,Robert Tonyan,TE,125,95,-30,2,3,1
 3116164,Mike Gesicki,TE,126,113,-13,2,1,-1
 2330,Tom Brady,QB,127,69,-58,2,7,5
 3912550,Ronald Jones II,RB,131,123,-8,2,2,0
@@ -113,35 +113,35 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 3916430,Nyheim Hines,RB,133,140,7,2,1,-1
 4040761,Devin Singletary,RB,134,144,10,2,1,-1
 4040715,Jalen Hurts,QB,135,104,-31,2,3,1
-14876,Ryan Tannehill,QB,139,110,-29,2,3,1
-12483,Matthew Stafford,QB,141,102,-39,2,4,2
+14876,Ryan Tannehill,QB,139,111,-28,2,3,1
+12483,Matthew Stafford,QB,141,101,-40,2,4,2
 15349,Cole Beasley,WR,143,133,-10,2,1,-1
 4035687,Michael Pittman Jr.,WR,144,138,-6,2,1,-1
-2576623,DeVante Parker,WR,145,151,6,2,0,-2
-4035170,Marquez Callaway,WR,147,134,-13,2,2,0
-3916433,Jakobi Meyers,WR,148,148,0,1,0,-1
+2576623,DeVante Parker,WR,145,150,5,2,0,-2
+4035170,Marquez Callaway,WR,147,133,-14,2,2,0
+3916433,Jakobi Meyers,WR,148,148,0,1,1,0
 4241802,Jalen Reagor,WR,149,151,2,1,0,-1
 2508176,David Johnson,RB,150,146,-4,1,1,0
-16913,James White,RB,151,160,9,1,0,-1
+16913,James White,RB,151,159,8,1,0,-1
 2587819,Tyrell Williams,WR,152,161,9,1,0,-1
 3121410,Parris Campbell,WR,154,161,7,1,0,-1
 4035004,Mecole Hardman,WR,155,148,-7,1,1,0
-4040655,Darnell Mooney,WR,156,152,-4,1,0,-1
+4040655,Darnell Mooney,WR,156,152,-4,1,1,0
 4372414,Elijah Moore,WR,157,163,6,1,0,-1
 2573401,Tyler Higbee,TE,159,131,-28,1,1,0
-3051876,Evan Engram,TE,160,149,-11,1,0,-1
-3043275,Austin Hooper,TE,161,150,-11,1,0,-1
+3051876,Evan Engram,TE,160,150,-10,1,0,-1
+3043275,Austin Hooper,TE,161,149,-12,1,0,-1
 3915511,Joe Burrow,QB,162,124,-38,1,2,1
 4241479,Tua Tagovailoa,QB,164,147,-17,1,1,0
 4360310,Trevor Lawrence,QB,168,134,-34,1,2,1
 3052117,Phillip Lindsay,RB,170,142,-28,1,1,0
-2572861,J.D. McKissic,RB,171,154,-17,1,0,-1
+2572861,J.D. McKissic,RB,171,155,-16,1,0,-1
 3895827,Ty'Son Williams,RB,172,167,-5,1,0,-1
 2570986,Malcolm Brown,RB,173,167,-6,1,0,-1
 3916148,Tony Pollard,RB,176,159,-17,1,0,-1
 4048244,Alexander Mattison,RB,177,163,-14,0,0,0
 16777,Carlos Hyde,RB,178,168,-10,0,0,0
-3046439,Hunter Henry,TE,179,164,-15,0,0,0
+3046439,Hunter Henry,TE,179,163,-16,0,0,0
 13229,Rob Gronkowski,TE,180,125,-55,0,1,1
 16732,Eric Ebron,TE,184,163,-21,0,0,0
 3052587,Baker Mayfield,QB,185,134,-51,0,1,1
@@ -160,17 +160,17 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 4038818,Bryan Edwards,WR,206,170,-36,0,0,0
 14053,Randall Cobb,WR,210,163,-47,0,0,0
 2976592,Sterling Shepard,WR,211,169,-42,0,0,0
-4243537,Gabriel Davis,WR,212,170,-42,0,0,0
+4243537,Gabriel Davis,WR,212,169,-43,0,0,0
 13295,Emmanuel Sanders,WR,213,169,-44,0,0,0
 4374302,Amon-Ra St. Brown,WR,214,170,-44,0,0,0
-4258595,Cole Kmet,TE,217,168,-49,0,0,0
+4258595,Cole Kmet,TE,217,167,-50,0,0,0
 15835,Zach Ertz,TE,219,162,-57,0,0,0
 3049698,Anthony Firkser,TE,220,169,-51,0,0,0
 5536,Ben Roethlisberger,QB,221,158,-63,0,0,0
 -16027,Buccaneers D/ST,DST,223,82,-141,1,3,2
 -16023,Steelers D/ST,DST,226,101,-125,1,2,1
--16033,Ravens D/ST,DST,227,103,-124,1,2,1
--16028,Washington D/ST,DST,228,115,-113,1,1,0
+-16033,Ravens D/ST,DST,227,104,-123,1,2,1
+-16028,Washington D/ST,DST,228,116,-112,1,2,1
 -16025,49ers D/ST,DST,229,123,-106,1,1,0
 -16002,Bills D/ST,DST,230,121,-109,1,1,0
 -16007,Broncos D/ST,DST,234,143,-91,1,1,0
@@ -184,7 +184,7 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 12460,Graham Gano,K,242,141,-101,1,1,0
 2473037,Jason Myers,K,243,131,-112,1,1,0
 16339,Brandon McManus,K,246,146,-100,1,1,0
-3124679,Jason Sanders,K,248,144,-104,1,1,0
+3124679,Jason Sanders,K,248,145,-103,1,1,0
 3049899,Younghoe Koo,K,249,132,-117,1,2,1
 4249087,Matt Gay,K,251,146,-105,1,1,0
 14993,Greg Zuerlein,K,252,163,-89,1,0,-1
@@ -212,7 +212,7 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 12537,Jared Cook,TE,302,167,-135,0,0,0
 3917792,Daniel Jones,QB,303,168,-135,0,0,0
 3128451,Tre'Quan Smith,WR,305,170,-135,0,0,0
-14924,T.Y. Hilton,WR,306,158,-148,0,0,0
+14924,T.Y. Hilton,WR,306,159,-147,0,0,0
 4240600,Kadarius Toney,WR,308,170,-138,0,0,0
 4258173,Nico Collins,WR,309,170,-139,0,0,0
 16725,Sammy Watkins,WR,310,170,-140,0,0,0
@@ -247,7 +247,7 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 3911853,Adam Trautman,TE,350,170,-180,0,0,0
 2991767,Blake Jarwin,TE,351,169,-182,0,0,0
 3918639,Gerald Everett,TE,352,169,-183,0,0,0
-4040980,Irv Smith Jr.,TE,353,153,-200,0,0,0
+4040980,Irv Smith Jr.,TE,353,155,-198,0,0,0
 2983509,Dare Ogunbowale,RB,354,170,-184,0,0,0
 4036416,Byron Pringle,WR,356,170,-186,0,0,0
 3917914,Olamide Zaccheaus,WR,357,170,-187,0,0,0
@@ -266,7 +266,7 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 4241941,Anthony McFarland Jr.,RB,374,170,-204,0,0,0
 3046779,Jared Goff,QB,378,169,-209,0,0,0
 2573079,Carson Wentz,QB,381,169,-212,0,0,0
-4241464,Mac Jones,QB,384,169,-215,0,0,0
+4241464,Mac Jones,QB,384,168,-216,0,0,0
 16728,Teddy Bridgewater,QB,386,169,-217,0,0,0
 3912547,Sam Darnold,QB,389,169,-220,0,0,0
 3135321,Hunter Renfrow,WR,391,170,-221,0,0,0
@@ -286,12 +286,12 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 -16019,Giants D/ST,DST,409,170,-239,0,0,0
 -16022,Cardinals D/ST,DST,410,169,-241,0,0,0
 9354,Robbie Gould,K,411,169,-242,0,0,0
-15965,Dustin Hopkins,K,412,169,-243,0,0,0
+15965,Dustin Hopkins,K,412,170,-242,0,0,0
 16504,Jack Doyle,TE,413,170,-243,0,0,0
 3924365,Hayden Hurst,TE,415,170,-245,0,0,0
 4212989,Dan Arnold,TE,417,170,-247,0,0,0
 3117256,Dalton Schultz,TE,418,170,-248,0,0,0
-3930086,Dawson Knox,TE,419,170,-249,0,0,0
+3930086,Dawson Knox,TE,419,169,-250,0,0,0
 2577667,Damiere Byrd,WR,420,169,-251,0,0,0
 3115306,Josh Reynolds,WR,422,170,-252,0,0,0
 14163,Tyrod Taylor,QB,423,170,-253,0,0,0
@@ -345,6 +345,7 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 3116407,Mason Rudolph,QB,487,169,-318,0,0,0
 3915165,Rodrigo Blankenship,K,488,166,-322,0,0,0
 4360234,Evan McPherson,K,490,169,-321,0,0,0
+4046532,Quinn Nordin,K,491,169,-322,0,0,0
 3040204,Ryan Santoso,K,492,170,-322,0,0,0
 2971573,Ka'imi Fairbairn,K,493,169,-324,0,0,0
 10636,Mason Crosby,K,495,168,-327,0,0,0
@@ -386,7 +387,6 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 4362504,Brevin Jordan,TE,1029,169,-860,0,0,0
 3139456,Cameron Batson,WR,1030,169,-861,0,0,0
 3843945,Foster Moreau,TE,1031,169,-862,0,0,0
-4039253,Trevon Wesco,RB,1032,170,-862,0,0,0
 4034950,Freddie Swain,WR,1033,169,-864,0,0,0
 3918003,Brycen Hopkins,TE,1034,169,-865,0,0,0
 2531358,Chris Manhertz,TE,1035,169,-866,0,0,0
@@ -403,7 +403,7 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 4036335,Cedrick Wilson,WR,1046,169,-877,0,0,0
 3915399,Preston Williams,WR,1047,169,-878,0,0,0
 4212909,David Moore,WR,1048,169,-879,0,0,0
-4039050,Devin Duvernay,WR,1049,169,-880,0,0,0
+4039050,Devin Duvernay,WR,1049,170,-879,0,0,0
 4047839,N'Keal Harry,WR,1050,169,-881,0,0,0
 13226,Andre Roberts,WR,1051,169,-882,0,0,0
 2971281,Pharaoh Brown,TE,1052,169,-883,0,0,0
@@ -411,6 +411,7 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 3052897,Durham Smythe,TE,1054,169,-885,0,0,0
 17453,Cameron Brate,TE,1055,169,-886,0,0,0
 15786,Tavon Austin,WR,1056,169,-887,0,0,0
+4422214,Trinity Benson,WR,1057,169,-888,0,0,0
 2514206,Blake Bell,TE,1058,169,-889,0,0,0
 3040035,Greg Ward,WR,1059,169,-890,0,0,0
 3122168,Trent Sherfield,WR,1060,169,-891,0,0,0
@@ -510,6 +511,7 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 2580216,DeAndre Carter,WR,1154,169,-985,0,0,0
 3115928,Malik Turner,WR,1155,169,-986,0,0,0
 4360739,Simi Fehoko,WR,1156,169,-987,0,0,0
+4408854,Jody Fortson,TE,1157,169,-988,0,0,0
 4035656,Ben Skowronek,WR,1158,169,-989,0,0,0
 2576854,Stephen Anderson,TE,1159,169,-990,0,0,0
 3051806,Ricky Seals-Jones,TE,1160,169,-991,0,0,0
@@ -587,7 +589,7 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 3933568,Davion Davis,WR,1458,169,-1289,0,0,0
 3931391,Trenton Irwin,WR,1459,169,-1290,0,0,0
 4240021,Cam Akers,RB,1461,169,-1292,0,0,0
-4241985,J.K. Dobbins,RB,1462,103,-1359,0,11,11
+4241985,J.K. Dobbins,RB,1462,115,-1347,0,9,9
 4259979,Lynn Bowden Jr.,WR,1463,169,-1294,0,0,0
 4240861,Dalton Keene,TE,1472,169,-1303,0,0,0
 4040732,Raymond Calais,RB,1473,169,-1304,0,0,0
@@ -606,7 +608,7 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 4038539,Sewo Olonilua,RB,1523,169,-1354,0,0,0
 2980120,Colin Thompson,TE,1524,169,-1355,0,0,0
 3919510,Alex Bachman,WR,1530,169,-1361,0,0,0
-4239996,Travis Etienne Jr.,RB,1537,168,-1369,0,0,0
+4239996,Travis Etienne Jr.,RB,1537,169,-1368,0,0,0
 4046678,Ian Book,QB,1558,169,-1389,0,0,0
 4241820,Sam Ehlinger,QB,1571,169,-1402,0,0,0
 4373642,Dax Milne,WR,1586,169,-1417,0,0,0
@@ -1054,3 +1056,4 @@ player_id,name,pos,ppr_rank,avg_draft_pos,pos_diff,ppr_auc_value,avg_auc_value,a
 13200,Tim Tebow,TE,2585,169,-2416,0,0,0
 4031033,Cade Johnson,WR,2586,169,-2417,0,0,0
 4044144,Kenny Yeboah,TE,2587,169,-2418,0,0,0
+4039253,Trevon Wesco,TE,1032,169,-863,0,0,0
