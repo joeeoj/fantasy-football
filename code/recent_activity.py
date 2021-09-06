@@ -20,7 +20,7 @@ SWID = os.getenv('SWID')
 DATA_DIR = Path.cwd().parent / 'data'
 YEAR = date.today().year if date.today().month in [9, 10, 11, 12] else (date.today().year - 1)
 TZ = timezone('America/Los_Angeles')
-DT_FORMAT = '%A %b %m, %Y at %I:%M %p %Z'
+DT_FORMAT = '%A %b %d, %Y at %I:%M %p %Z'
 
 
 ACTION_HEADER = ['datetime', 'team_id', 'team_name', 'player_name', 'player_id', 'cost', 'move']
