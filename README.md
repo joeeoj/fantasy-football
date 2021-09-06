@@ -24,6 +24,18 @@ The current goal (besides learning) is to generate projections that include play
 
 The tooling created to download and parse data is not the specific goal of this repo but the tools are interesting nonetheless and are worth a mention.
 
+### setup with virtualenv
+
+1. Install Python from [https://www.python.org/downloads/](https://www.python.org/downloads/)
+2. Check python version with `$ python -V`
+    * make sure this matches what you installed. It might be installed as `python3` or `python3.9` etc.
+3. `$ python3.9 -m pip install virtualenv`
+4. `$ cd fantasy-football`
+5. `$ python3.9 -m virtualenv venv39` (or whatever you want to name it)
+6. `$ source venv39/bin/activate`
+7. `$ python -m pip install -r requirements.txt`
+    * this is using your python virtualenv so you can just use `python`
+
 ### `code/league_data.py`
 
 This parses historical league data from my actual league or projections for the current year. I didn't participate last year and we didn't have the league in 2019 so the historical data is of limited use. The 2021 projections are helpful, though, because they are based on our current league settings.
