@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from collections import defaultdict
 import csv
 from datetime import date
 import os
@@ -26,6 +27,21 @@ TEAMS = {
     18: 'Team barrett',
     19: 'Federal Way Yu',
  }
+NOT_PLAYING = set(['BE', 'IR'])  # non-playing slots
+
+# RB/WR/TE = FLEX
+# we do not have OP, RB/WR, WR/TE, or Rookie
+LEAGUE_SLOTS = {
+    'QB': 1,
+    'RB': 2,
+    'WR': 3,
+    'TE': 1,
+    'RB/WR/TE': 1,
+    'K': 1,
+    'DST': 1,
+    'BE': 5,
+    'IR': 1,
+}
 
 
 def get_lineup(box_scores: BoxScore, team_id: int) -> list[BoxPlayer]:
@@ -43,8 +59,9 @@ def get_lineup(box_scores: BoxScore, team_id: int) -> list[BoxPlayer]:
     return lineup
 
 
-def parse_player_data(p: BoxPlayer) -> dict:
+def parse_player_data(p: BoxPlayer, team_id: int) -> dict:
     return {
+        'fantasy_team_id': team_id,
         'player_id': p.playerId,
         'player_name': p.name,
         'pos': p.position,
@@ -55,11 +72,31 @@ def parse_player_data(p: BoxPlayer) -> dict:
     }
 
 
-if __name__ == '__main__':
-    league = League(league_id=LEAGUE_ID, year=YEAR)
-    week = league.current_week
-    print(f'Current week: {week}')
+# if __name__ == '__main__':
+league = League(league_id=LEAGUE_ID, year=YEAR)
+week = league.current_week
+print(f'Current week: {week}')
 
-    box_scores = league.box_scores()
-    lineup = get_lineup(box_scores, 19)
-    players = [parse_player_data(p) for p in lineup]
+box_scores = league.box_scores()
+longest_team_name = max([len(v) for v in TEAMS.values()])
+
+for matchup in box_scores:
+    home = matchup.home_team
+    away = matchup.away_team
+    print(f'{away.team_name:>{longest_team_name}} ({away.team_id:>2}) at {home.team_name} ({home.team_id})')
+
+team_id = 19
+lineup = get_lineup(box_scores, team_id)
+players = [parse_player_data(p, team_id) for p in lineup]
+projected = round(sum([p['projected_points'] for p in players if p['current_position'] not in NOT_PLAYING]), 2)
+
+
+players_per_slots = defaultdict(list)
+for player in players:
+    eligible_slots = player.get('eligible_slots')
+    for slot in eligible_slots:
+        if slot in LEAGUE_SLOTS.keys() and slot not in NOT_PLAYING:
+            players_per_slots[slot].append(player)
+
+for pos, players in players_per_slots.items():
+    print(f'{pos}: {len(players):,}')
