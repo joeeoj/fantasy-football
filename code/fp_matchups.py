@@ -19,7 +19,7 @@ DATA_DIR = Path.cwd().parent / 'data'
 
 
 def count_stars(cell: bs4.element.Tag) -> int:
-    """1 to 5 scale of easy of matchup where 1 is hard and 5 is easy"""
+    """1 to 5 scale of ease of matchup where 1 is hard and 5 is easy"""
     if cell.text == 'BYE':
         return None
 
