@@ -1,0 +1,3092 @@
+{
+  "16": {
+    "RB": [
+      {
+        "id": 3043078,
+        "name": "Derrick Henry",
+        "team": "TEN",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 9.2,
+        "projected_points": 16.53,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "rushingYards": 5.800000000000001,
+          "receivingYards": 1.9000000000000001
+        }
+      },
+      {
+        "id": 4259545,
+        "name": "D'Andre Swift",
+        "team": "DET",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 20.4,
+        "projected_points": 11.63,
+        "points_breakdown": {
+          "receivingReceptions": 4.0,
+          "rushingYards": 3.9000000000000004,
+          "receivingYards": 6.5,
+          "receivingTouchdowns": 6.0
+        }
+      }
+    ],
+    "RB/WR/TE": [
+      {
+        "id": 4035538,
+        "name": "David Montgomery",
+        "team": "CHI",
+        "position": "RB",
+        "slot_position": "RB/WR/TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 18.3,
+        "projected_points": 13.47,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "rushingYards": 10.8,
+          "rushingTouchdowns": 6.0,
+          "receivingYards": 1.0
+        }
+      }
+    ],
+    "WR": [
+      {
+        "id": 16733,
+        "name": "Odell Beckham Jr.",
+        "team": "CLE",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "OUT",
+        "actual_points": 0.0,
+        "projected_points": 0.0,
+        "points_breakdown": {}
+      },
+      {
+        "id": 4239993,
+        "name": "Tee Higgins",
+        "team": "CIN",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 13.8,
+        "projected_points": 10.26,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "receivingYards": 5.800000000000001,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 4241463,
+        "name": "Jerry Jeudy",
+        "team": "DEN",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "OUT",
+        "actual_points": 10.2,
+        "projected_points": 10.13,
+        "points_breakdown": {
+          "receivingReceptions": 3.0,
+          "receivingYards": 7.2
+        }
+      }
+    ],
+    "BE": [
+      {
+        "id": 4241478,
+        "name": "DeVonta Smith",
+        "team": "PHI",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 16.1,
+        "projected_points": 9.87,
+        "points_breakdown": {
+          "receivingReceptions": 3.0,
+          "receivingYards": 7.1000000000000005,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 2576434,
+        "name": "Melvin Gordon III",
+        "team": "DEN",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 19.3,
+        "projected_points": 8.61,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "rushingYards": 10.100000000000001,
+          "rushingTouchdowns": 6.0,
+          "receivingYards": 1.7000000000000002
+        }
+      },
+      {
+        "id": 3126486,
+        "name": "Deebo Samuel",
+        "team": "SF",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 27.4,
+        "projected_points": 10.48,
+        "points_breakdown": {
+          "receivingReceptions": 4.5,
+          "lostFumbles": -2.0,
+          "receivingYards": 18.900000000000002,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 4035676,
+        "name": "Zack Moss",
+        "team": "BUF",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 0.0,
+        "projected_points": 0.0,
+        "points_breakdown": {}
+      },
+      {
+        "id": 3052876,
+        "name": "William Fuller V",
+        "team": "MIA",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 0.0,
+        "projected_points": 0.0,
+        "points_breakdown": {}
+      }
+    ],
+    "TE": [
+      {
+        "id": 4036131,
+        "name": "Noah Fant",
+        "team": "DEN",
+        "position": "TE",
+        "slot_position": "TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 9.2,
+        "projected_points": 7.17,
+        "points_breakdown": {
+          "receivingReceptions": 3.0,
+          "receivingYards": 6.2
+        }
+      }
+    ],
+    "QB": [
+      {
+        "id": 4241479,
+        "name": "Tua Tagovailoa",
+        "team": "MIA",
+        "position": "QB",
+        "slot_position": "QB",
+        "injury_status": "ACTIVE",
+        "actual_points": 16.18,
+        "projected_points": 16.36,
+        "points_breakdown": {
+          "passingYards": 8.08,
+          "passingInterceptions": -2.0,
+          "passingTouchdowns": 4.0,
+          "rushingYards": 0.1,
+          "rushingTouchdowns": 6.0
+        }
+      }
+    ],
+    "K": [
+      {
+        "id": 3917232,
+        "name": "Tyler Bass",
+        "team": "BUF",
+        "position": "K",
+        "slot_position": "K",
+        "injury_status": "ACTIVE",
+        "actual_points": 11.0,
+        "projected_points": 7.79,
+        "points_breakdown": {
+          "madeFieldGoalsFromUnder40": 6.0,
+          "madeExtraPoints": 1.0,
+          "madeFieldGoalsFrom40To49": 4.0
+        }
+      }
+    ],
+    "D/ST": [
+      {
+        "id": -16030,
+        "name": "Jaguars D/ST",
+        "team": "JAX",
+        "position": "D/ST",
+        "slot_position": "D/ST",
+        "injury_status": "NORMAL",
+        "actual_points": -4.0,
+        "projected_points": 6.96,
+        "points_breakdown": {
+          "128": 0.0,
+          "defensive100To199YardsAllowed": 0.0,
+          "defensive200To299YardsAllowed": 0.0,
+          "131": 0.0,
+          "defensiveSacks": 1.0,
+          "defensive400To449YardsAllowed": -2.0,
+          "defensive450To499YardsAllowed": 0.0,
+          "defensive500To549YardsAllowed": 0.0,
+          "defensiveOver550YardsAllowed": 0.0,
+          "121": 0.0,
+          "defensive0PointsAllowed": 0.0,
+          "defensive1To6PointsAllowed": 0.0,
+          "defensive28To34PointsAllowed": 0.0,
+          "defensive7To13PointsAllowed": 0.0,
+          "defensive14To17PointsAllowed": 0.0,
+          "defensive35To45PointsAllowed": -3.0
+        }
+      }
+    ]
+  },
+  "19": {
+    "RB": [
+      {
+        "id": 3116593,
+        "name": "Dalvin Cook",
+        "team": "MIN",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 17.4,
+        "projected_points": 19.02,
+        "points_breakdown": {
+          "receivingReceptions": 3.0,
+          "lostFumbles": -2.0,
+          "rushingYards": 6.1000000000000005,
+          "rushingTouchdowns": 6.0,
+          "receivingYards": 4.3
+        }
+      },
+      {
+        "id": 3059915,
+        "name": "Kareem Hunt",
+        "team": "CLE",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 15.6,
+        "projected_points": 9.61,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "rushingYards": 3.3000000000000003,
+          "rushingTouchdowns": 6.0,
+          "rushing2PtConversions": 2.0,
+          "receivingYards": 2.8000000000000003
+        }
+      }
+    ],
+    "QB": [
+      {
+        "id": 3139477,
+        "name": "Patrick Mahomes",
+        "team": "KC",
+        "position": "QB",
+        "slot_position": "QB",
+        "injury_status": "ACTIVE",
+        "actual_points": 33.28,
+        "projected_points": 22.19,
+        "points_breakdown": {
+          "passingYards": 13.48,
+          "passingTouchdowns": 12.0,
+          "rushingYards": 1.8,
+          "rushingTouchdowns": 6.0
+        }
+      }
+    ],
+    "WR": [
+      {
+        "id": 3116406,
+        "name": "Tyreek Hill",
+        "team": "KC",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 31.6,
+        "projected_points": 15.35,
+        "points_breakdown": {
+          "receivingReceptions": 5.5,
+          "rushingYards": 0.4,
+          "receivingYards": 19.700000000000003,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 4362628,
+        "name": "Ja'Marr Chase",
+        "team": "CIN",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 18.4,
+        "projected_points": 8.53,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "rushingYards": -0.2,
+          "receivingYards": 10.100000000000001,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 4036348,
+        "name": "Michael Gallup",
+        "team": "DAL",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "INJURY_RESERVE",
+        "actual_points": 5.6,
+        "projected_points": 10.45,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "receivingYards": 3.6
+        }
+      }
+    ],
+    "BE": [
+      {
+        "id": 8439,
+        "name": "Aaron Rodgers",
+        "team": "GB",
+        "position": "QB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 1.32,
+        "projected_points": 19.08,
+        "points_breakdown": {
+          "passingYards": 5.32,
+          "passingInterceptions": -4.0
+        }
+      },
+      {
+        "id": 3052117,
+        "name": "Phillip Lindsay",
+        "team": "HOU",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 8.5,
+        "projected_points": 7.56,
+        "points_breakdown": {
+          "rushingYards": 2.5,
+          "rushingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 2572861,
+        "name": "J.D. McKissic",
+        "team": "WSH",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 0.8,
+        "projected_points": 7.62,
+        "points_breakdown": {
+          "rushingYards": 0.8
+        }
+      },
+      {
+        "id": 14053,
+        "name": "Randall Cobb",
+        "team": "GB",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 3.8,
+        "projected_points": 7.11,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "rushingYards": 0.1,
+          "receivingYards": 3.2
+        }
+      },
+      {
+        "id": 4048244,
+        "name": "Alexander Mattison",
+        "team": "MIN",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 1.1,
+        "projected_points": 6.16,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "rushingYards": 0.2,
+          "receivingYards": 0.4
+        }
+      }
+    ],
+    "TE": [
+      {
+        "id": 3116365,
+        "name": "Mark Andrews",
+        "team": "BAL",
+        "position": "TE",
+        "slot_position": "TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 3.5,
+        "projected_points": 10.17,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "receivingYards": 2.0
+        }
+      }
+    ],
+    "K": [
+      {
+        "id": 3124679,
+        "name": "Jason Sanders",
+        "team": "MIA",
+        "position": "K",
+        "slot_position": "K",
+        "injury_status": "ACTIVE",
+        "actual_points": 6.0,
+        "projected_points": 7.82,
+        "points_breakdown": {
+          "madeExtraPoints": 2.0,
+          "madeFieldGoalsFrom40To49": 4.0
+        }
+      }
+    ],
+    "RB/WR/TE": [
+      {
+        "id": 2508176,
+        "name": "David Johnson",
+        "team": "HOU",
+        "position": "RB",
+        "slot_position": "RB/WR/TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 10.3,
+        "projected_points": 6.86,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "rushingYards": 1.0,
+          "receivingYards": 1.8,
+          "receivingTouchdowns": 6.0
+        }
+      }
+    ],
+    "D/ST": [
+      {
+        "id": -16025,
+        "name": "49ers D/ST",
+        "team": "SF",
+        "position": "D/ST",
+        "slot_position": "D/ST",
+        "injury_status": "NORMAL",
+        "actual_points": 8.0,
+        "projected_points": 7.88,
+        "points_breakdown": {
+          "128": 0.0,
+          "defensive100To199YardsAllowed": 0.0,
+          "defensive200To299YardsAllowed": 0.0,
+          "131": 0.0,
+          "defensiveSacks": 3.0,
+          "defensive400To449YardsAllowed": -2.0,
+          "defensive450To499YardsAllowed": 0.0,
+          "defensive500To549YardsAllowed": 0.0,
+          "fumbleReturnTouchdown": 6.0,
+          "defensiveOver550YardsAllowed": 0.0,
+          "121": 0.0,
+          "defensive0PointsAllowed": 0.0,
+          "defensive1To6PointsAllowed": 0.0,
+          "defensive28To34PointsAllowed": -1.0,
+          "defensive7To13PointsAllowed": 0.0,
+          "defensive14To17PointsAllowed": 0.0,
+          "defensive35To45PointsAllowed": 0.0,
+          "defensiveInterceptions": 2.0
+        }
+      }
+    ]
+  },
+  "18": {
+    "RB": [
+      {
+        "id": 3929630,
+        "name": "Saquon Barkley",
+        "team": "NYG",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "QUESTIONABLE",
+        "actual_points": 3.2,
+        "projected_points": 12.23,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "rushingYards": 2.6,
+          "receivingYards": 0.1
+        }
+      },
+      {
+        "id": 4052042,
+        "name": "James Robinson",
+        "team": "JAX",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 6.9,
+        "projected_points": 14.21,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "rushingYards": 2.5,
+          "receivingYards": 2.9000000000000004
+        }
+      }
+    ],
+    "WR": [
+      {
+        "id": 2976212,
+        "name": "Stefon Diggs",
+        "team": "BUF",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 11.4,
+        "projected_points": 13.87,
+        "points_breakdown": {
+          "receivingReceptions": 4.5,
+          "receivingYards": 6.9
+        }
+      },
+      {
+        "id": 15818,
+        "name": "Keenan Allen",
+        "team": "LAC",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 14.5,
+        "projected_points": 11.68,
+        "points_breakdown": {
+          "receivingReceptions": 4.5,
+          "receivingYards": 10.0
+        }
+      },
+      {
+        "id": 3120348,
+        "name": "JuJu Smith-Schuster",
+        "team": "PIT",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 7.2,
+        "projected_points": 9.86,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "receivingYards": 5.2
+        }
+      }
+    ],
+    "QB": [
+      {
+        "id": 2577417,
+        "name": "Dak Prescott",
+        "team": "DAL",
+        "position": "QB",
+        "slot_position": "QB",
+        "injury_status": "ACTIVE",
+        "actual_points": 27.42,
+        "projected_points": 20.84,
+        "points_breakdown": {
+          "passingYards": 16.12,
+          "passingInterceptions": -2.0,
+          "passingTouchdowns": 12.0,
+          "rushingYards": 1.3
+        }
+      }
+    ],
+    "K": [
+      {
+        "id": 3049899,
+        "name": "Younghoe Koo",
+        "team": "ATL",
+        "position": "K",
+        "slot_position": "K",
+        "injury_status": "ACTIVE",
+        "actual_points": 6.0,
+        "projected_points": 7.74,
+        "points_breakdown": {
+          "madeFieldGoalsFromUnder40": 6.0
+        }
+      }
+    ],
+    "RB/WR/TE": [
+      {
+        "id": 3045144,
+        "name": "Tyler Boyd",
+        "team": "CIN",
+        "position": "WR",
+        "slot_position": "RB/WR/TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 4.7,
+        "projected_points": 9.79,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "receivingYards": 3.2
+        }
+      }
+    ],
+    "BE": [
+      {
+        "id": 4372016,
+        "name": "Jaylen Waddle",
+        "team": "MIA",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 14.1,
+        "projected_points": 8.76,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "receivingYards": 6.1000000000000005,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 16790,
+        "name": "Jarvis Landry",
+        "team": "CLE",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 16.9,
+        "projected_points": 11.17,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "rushingYards": 1.3,
+          "rushingTouchdowns": 6.0,
+          "receivingYards": 7.1000000000000005
+        }
+      },
+      {
+        "id": 3045138,
+        "name": "Mike Williams",
+        "team": "LAC",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 18.2,
+        "projected_points": 9.06,
+        "points_breakdown": {
+          "receivingReceptions": 4.0,
+          "receivingYards": 8.200000000000001,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 13229,
+        "name": "Rob Gronkowski",
+        "team": "TB",
+        "position": "TE",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 25.0,
+        "projected_points": 6.5,
+        "points_breakdown": {
+          "receivingReceptions": 4.0,
+          "receivingYards": 9.0,
+          "receivingTouchdowns": 12.0
+        }
+      },
+      {
+        "id": 3122866,
+        "name": "Devontae Booker",
+        "team": "NYG",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 1.8,
+        "projected_points": 5.02,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "rushingYards": 0.7000000000000001,
+          "receivingYards": 0.6000000000000001
+        }
+      }
+    ],
+    "TE": [
+      {
+        "id": 3116164,
+        "name": "Mike Gesicki",
+        "team": "MIA",
+        "position": "TE",
+        "slot_position": "TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 0.0,
+        "projected_points": 6.69,
+        "points_breakdown": {
+          "210": 1.0,
+          "58": 2.0,
+          "TeamWin": 1.0,
+          "108": 1.0,
+          "109": 1.0
+        }
+      }
+    ],
+    "D/ST": [
+      {
+        "id": -16011,
+        "name": "Colts D/ST",
+        "team": "IND",
+        "position": "D/ST",
+        "slot_position": "D/ST",
+        "injury_status": "NORMAL",
+        "actual_points": 4.0,
+        "projected_points": 6.65,
+        "points_breakdown": {
+          "defensiveFumbles": 2.0,
+          "128": 0.0,
+          "defensive100To199YardsAllowed": 0.0,
+          "defensive200To299YardsAllowed": 0.0,
+          "131": 0.0,
+          "defensiveSacks": 3.0,
+          "defensive400To449YardsAllowed": 0.0,
+          "defensive450To499YardsAllowed": 0.0,
+          "defensive500To549YardsAllowed": 0.0,
+          "defensiveOver550YardsAllowed": 0.0,
+          "121": 0.0,
+          "defensive0PointsAllowed": 0.0,
+          "defensive1To6PointsAllowed": 0.0,
+          "defensive28To34PointsAllowed": -1.0,
+          "defensive7To13PointsAllowed": 0.0,
+          "defensive14To17PointsAllowed": 0.0,
+          "defensive35To45PointsAllowed": 0.0
+        }
+      }
+    ]
+  },
+  "1": {
+    "RB": [
+      {
+        "id": 3117251,
+        "name": "Christian McCaffrey",
+        "team": "CAR",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 23.2,
+        "projected_points": 18.84,
+        "points_breakdown": {
+          "receivingReceptions": 4.5,
+          "rushingYards": 9.8,
+          "receivingYards": 8.9
+        }
+      },
+      {
+        "id": 3925347,
+        "name": "Damien Harris",
+        "team": "NE",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 10.7,
+        "projected_points": 10.7,
+        "points_breakdown": {
+          "receivingReceptions": 1.0,
+          "lostFumbles": -2.0,
+          "rushingYards": 10.0,
+          "receivingYards": 1.7000000000000002
+        }
+      }
+    ],
+    "WR": [
+      {
+        "id": 16737,
+        "name": "Mike Evans",
+        "team": "TB",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 3.9,
+        "projected_points": 12.69,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "receivingYards": 2.4000000000000004
+        }
+      },
+      {
+        "id": 2577327,
+        "name": "Tyler Lockett",
+        "team": "SEA",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 24.0,
+        "projected_points": 11.7,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "receivingYards": 10.0,
+          "receivingTouchdowns": 12.0
+        }
+      },
+      {
+        "id": 4040655,
+        "name": "Darnell Mooney",
+        "team": "CHI",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 5.1,
+        "projected_points": 7.84,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "receivingYards": 2.6
+        }
+      }
+    ],
+    "QB": [
+      {
+        "id": 3916387,
+        "name": "Lamar Jackson",
+        "team": "BAL",
+        "position": "QB",
+        "slot_position": "QB",
+        "injury_status": "ACTIVE",
+        "actual_points": 18.0,
+        "projected_points": 22.27,
+        "points_breakdown": {
+          "passingYards": 9.4,
+          "passingTouchdowns": 4.0,
+          "lostFumbles": -4.0,
+          "rushingYards": 8.6
+        }
+      }
+    ],
+    "TE": [
+      {
+        "id": 4360248,
+        "name": "Kyle Pitts",
+        "team": "ATL",
+        "position": "TE",
+        "slot_position": "TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 5.1,
+        "projected_points": 8.98,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "receivingYards": 3.1
+        }
+      }
+    ],
+    "RB/WR/TE": [
+      {
+        "id": 4039359,
+        "name": "Darrell Henderson Jr.",
+        "team": "LAR",
+        "position": "RB",
+        "slot_position": "RB/WR/TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 15.2,
+        "projected_points": 11.91,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "rushingYards": 7.0,
+          "rushingTouchdowns": 6.0,
+          "receivingYards": 1.7000000000000002
+        }
+      }
+    ],
+    "IR": [
+      {
+        "id": 4241401,
+        "name": "Trey Sermon",
+        "team": "SF",
+        "position": "RB",
+        "slot_position": "IR",
+        "injury_status": "ACTIVE",
+        "actual_points": 0.0,
+        "projected_points": 0.0,
+        "points_breakdown": {}
+      }
+    ],
+    "BE": [
+      {
+        "id": 4040715,
+        "name": "Jalen Hurts",
+        "team": "PHI",
+        "position": "QB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 28.76,
+        "projected_points": 19.65,
+        "points_breakdown": {
+          "passingYards": 10.56,
+          "passingTouchdowns": 12.0,
+          "rushingYards": 6.2
+        }
+      },
+      {
+        "id": 3046439,
+        "name": "Hunter Henry",
+        "team": "NE",
+        "position": "TE",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 4.6,
+        "projected_points": 5.98,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "receivingYards": 3.1
+        }
+      },
+      {
+        "id": 4038818,
+        "name": "Bryan Edwards",
+        "team": "OAK",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 10.1,
+        "projected_points": 6.83,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "receivingYards": 8.1
+        }
+      },
+      {
+        "id": 2979477,
+        "name": "Tevin Coleman",
+        "team": "NYJ",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 2.4,
+        "projected_points": 7.74,
+        "points_breakdown": {
+          "rushingYards": 2.4000000000000004
+        }
+      },
+      {
+        "id": 16913,
+        "name": "James White",
+        "team": "NE",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 9.1,
+        "projected_points": 6.95,
+        "points_breakdown": {
+          "receivingReceptions": 3.0,
+          "rushingYards": 1.2000000000000002,
+          "receivingYards": 4.9
+        }
+      }
+    ],
+    "K": [
+      {
+        "id": 12731,
+        "name": "Ryan Succop",
+        "team": "TB",
+        "position": "K",
+        "slot_position": "K",
+        "injury_status": "ACTIVE",
+        "actual_points": 7.0,
+        "projected_points": 7.82,
+        "points_breakdown": {
+          "madeFieldGoalsFromUnder40": 3.0,
+          "madeExtraPoints": 4.0
+        }
+      }
+    ],
+    "D/ST": [
+      {
+        "id": -16029,
+        "name": "Panthers D/ST",
+        "team": "CAR",
+        "position": "D/ST",
+        "slot_position": "D/ST",
+        "injury_status": "NORMAL",
+        "actual_points": 12.0,
+        "projected_points": 8.1,
+        "points_breakdown": {
+          "128": 0.0,
+          "defensive100To199YardsAllowed": 0.0,
+          "defensive200To299YardsAllowed": 2.0,
+          "131": 0.0,
+          "defensiveSacks": 6.0,
+          "defensive400To449YardsAllowed": 0.0,
+          "defensive450To499YardsAllowed": 0.0,
+          "defensive500To549YardsAllowed": 0.0,
+          "defensiveOver550YardsAllowed": 0.0,
+          "121": 0.0,
+          "defensive0PointsAllowed": 0.0,
+          "defensive1To6PointsAllowed": 0.0,
+          "defensive28To34PointsAllowed": 0.0,
+          "defensive7To13PointsAllowed": 0.0,
+          "defensive14To17PointsAllowed": 2.0,
+          "defensive35To45PointsAllowed": 0.0,
+          "defensiveInterceptions": 2.0
+        }
+      }
+    ]
+  },
+  "2": {
+    "RB": [
+      {
+        "id": 3051392,
+        "name": "Ezekiel Elliott",
+        "team": "DAL",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 4.9,
+        "projected_points": 12.83,
+        "points_breakdown": {
+          "receivingReceptions": 1.0,
+          "rushingYards": 3.3000000000000003,
+          "receivingYards": 0.6000000000000001
+        }
+      },
+      {
+        "id": 3042519,
+        "name": "Aaron Jones",
+        "team": "GB",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 3.2,
+        "projected_points": 13.34,
+        "points_breakdown": {
+          "receivingReceptions": 1.0,
+          "rushingYards": 0.9,
+          "receivingYards": 1.3
+        }
+      }
+    ],
+    "QB": [
+      {
+        "id": 14881,
+        "name": "Russell Wilson",
+        "team": "SEA",
+        "position": "QB",
+        "slot_position": "QB",
+        "injury_status": "ACTIVE",
+        "actual_points": 27.06,
+        "projected_points": 19.06,
+        "points_breakdown": {
+          "passingYards": 10.16,
+          "passingTouchdowns": 16.0,
+          "rushingYards": 0.9
+        }
+      }
+    ],
+    "TE": [
+      {
+        "id": 3040151,
+        "name": "George Kittle",
+        "team": "SF",
+        "position": "TE",
+        "slot_position": "TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 7.8,
+        "projected_points": 11.77,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "lostFumbles": -2.0,
+          "receivingYards": 7.800000000000001
+        }
+      }
+    ],
+    "WR": [
+      {
+        "id": 16799,
+        "name": "Allen Robinson II",
+        "team": "CHI",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 6.5,
+        "projected_points": 11.68,
+        "points_breakdown": {
+          "receivingReceptions": 3.0,
+          "receivingYards": 3.5
+        }
+      },
+      {
+        "id": 3115394,
+        "name": "DJ Chark Jr.",
+        "team": "JAX",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 16.1,
+        "projected_points": 9.94,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "receivingYards": 8.6,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 2576623,
+        "name": "DeVante Parker",
+        "team": "MIA",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 10.1,
+        "projected_points": 9.44,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "receivingYards": 8.1
+        }
+      }
+    ],
+    "D/ST": [
+      {
+        "id": -16028,
+        "name": "Washington D/ST",
+        "team": "WSH",
+        "position": "D/ST",
+        "slot_position": "D/ST",
+        "injury_status": "NORMAL",
+        "actual_points": 3.0,
+        "projected_points": 7.27,
+        "points_breakdown": {
+          "128": 0.0,
+          "defensive100To199YardsAllowed": 0.0,
+          "defensive200To299YardsAllowed": 0.0,
+          "131": 0.0,
+          "defensiveSacks": 2.0,
+          "defensive400To449YardsAllowed": -2.0,
+          "defensive450To499YardsAllowed": 0.0,
+          "defensive500To549YardsAllowed": 0.0,
+          "defensiveOver550YardsAllowed": 0.0,
+          "121": 1.0,
+          "defensive0PointsAllowed": 0.0,
+          "defensive1To6PointsAllowed": 0.0,
+          "defensive28To34PointsAllowed": 0.0,
+          "defensive7To13PointsAllowed": 0.0,
+          "defensive14To17PointsAllowed": 0.0,
+          "defensive35To45PointsAllowed": 0.0,
+          "defensiveInterceptions": 2.0
+        }
+      }
+    ],
+    "K": [
+      {
+        "id": 16339,
+        "name": "Brandon McManus",
+        "team": "DEN",
+        "position": "K",
+        "slot_position": "K",
+        "injury_status": "ACTIVE",
+        "actual_points": 9.0,
+        "projected_points": 7.8,
+        "points_breakdown": {
+          "madeFieldGoalsFromUnder40": 6.0,
+          "madeExtraPoints": 3.0
+        }
+      }
+    ],
+    "BE": [
+      {
+        "id": 3916433,
+        "name": "Jakobi Meyers",
+        "team": "NE",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 7.4,
+        "projected_points": 8.51,
+        "points_breakdown": {
+          "receivingReceptions": 3.0,
+          "receivingYards": 4.4
+        }
+      },
+      {
+        "id": 4241802,
+        "name": "Jalen Reagor",
+        "team": "PHI",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 13.9,
+        "projected_points": 8.51,
+        "points_breakdown": {
+          "receivingReceptions": 3.0,
+          "receivingYards": 4.9,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 3051738,
+        "name": "Marquez Valdes-Scantling",
+        "team": "GB",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 3.2,
+        "projected_points": 3.93,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "receivingYards": 1.7000000000000002
+        }
+      },
+      {
+        "id": 3121410,
+        "name": "Parris Campbell",
+        "team": "IND",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 2.9,
+        "projected_points": 8.23,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "receivingYards": 2.4000000000000004
+        }
+      },
+      {
+        "id": 4372414,
+        "name": "Elijah Moore",
+        "team": "NYJ",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 0.2,
+        "projected_points": 8.76,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "receivingYards": -0.30000000000000004
+        }
+      }
+    ],
+    "RB/WR/TE": [
+      {
+        "id": 3916430,
+        "name": "Nyheim Hines",
+        "team": "IND",
+        "position": "RB",
+        "slot_position": "RB/WR/TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 11.2,
+        "projected_points": 7.84,
+        "points_breakdown": {
+          "receivingReceptions": 3.0,
+          "rushingYards": 3.4000000000000004,
+          "receivingYards": 4.800000000000001
+        }
+      }
+    ]
+  },
+  "13": {
+    "WR": [
+      {
+        "id": 16800,
+        "name": "Davante Adams",
+        "team": "GB",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 8.1,
+        "projected_points": 16.37,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "receivingYards": 5.6000000000000005
+        }
+      },
+      {
+        "id": 4241389,
+        "name": "CeeDee Lamb",
+        "team": "DAL",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 19.9,
+        "projected_points": 12.22,
+        "points_breakdown": {
+          "receivingReceptions": 3.5,
+          "receivingYards": 10.4,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 2974858,
+        "name": "Kenny Golladay",
+        "team": "NYG",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 8.4,
+        "projected_points": 9.96,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "receivingYards": 6.4
+        }
+      }
+    ],
+    "RB": [
+      {
+        "id": 4241457,
+        "name": "Najee Harris",
+        "team": "PIT",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 5.4,
+        "projected_points": 13.23,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "rushingYards": 4.5,
+          "receivingYards": 0.4
+        }
+      },
+      {
+        "id": 3119195,
+        "name": "Chase Edmonds",
+        "team": "ARI",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 12.6,
+        "projected_points": 11.14,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "rushingYards": 6.300000000000001,
+          "receivingYards": 4.3
+        }
+      }
+    ],
+    "BE": [
+      {
+        "id": 4360310,
+        "name": "Trevor Lawrence",
+        "team": "JAX",
+        "position": "QB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 19.08,
+        "projected_points": 17.84,
+        "points_breakdown": {
+          "passingYards": 13.280000000000001,
+          "passingInterceptions": -6.0,
+          "passingTouchdowns": 12.0,
+          "rushingYards": -0.2
+        }
+      },
+      {
+        "id": 2980453,
+        "name": "Jamaal Williams",
+        "team": "DET",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 21.0,
+        "projected_points": 7.77,
+        "points_breakdown": {
+          "receivingReceptions": 4.0,
+          "rushingYards": 5.4,
+          "rushingTouchdowns": 6.0,
+          "receivingYards": 5.6000000000000005
+        }
+      },
+      {
+        "id": 3121023,
+        "name": "Dallas Goedert",
+        "team": "PHI",
+        "position": "TE",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 12.2,
+        "projected_points": 7.78,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "receivingYards": 4.2,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 3121427,
+        "name": "Curtis Samuel",
+        "team": "WSH",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "INJURY_RESERVE",
+        "actual_points": 0.0,
+        "projected_points": 0.0,
+        "points_breakdown": {}
+      },
+      {
+        "id": 4241372,
+        "name": "Marquise Brown",
+        "team": "BAL",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 16.4,
+        "projected_points": 10.18,
+        "points_breakdown": {
+          "receivingReceptions": 3.0,
+          "rushingYards": 0.5,
+          "receivingYards": 6.9,
+          "receivingTouchdowns": 6.0
+        }
+      }
+    ],
+    "D/ST": [
+      {
+        "id": -16014,
+        "name": "Rams D/ST",
+        "team": "LAR",
+        "position": "D/ST",
+        "slot_position": "D/ST",
+        "injury_status": "NORMAL",
+        "actual_points": 10.0,
+        "projected_points": 8.73,
+        "points_breakdown": {
+          "defensiveFumbles": 2.0,
+          "128": 0.0,
+          "defensive100To199YardsAllowed": 0.0,
+          "defensive200To299YardsAllowed": 0.0,
+          "131": 1.0,
+          "defensiveSacks": 3.0,
+          "defensive400To449YardsAllowed": 0.0,
+          "defensive450To499YardsAllowed": 0.0,
+          "defensive500To549YardsAllowed": 0.0,
+          "defensiveOver550YardsAllowed": 0.0,
+          "121": 0.0,
+          "defensive0PointsAllowed": 0.0,
+          "defensive1To6PointsAllowed": 0.0,
+          "defensive28To34PointsAllowed": 0.0,
+          "defensive7To13PointsAllowed": 0.0,
+          "defensive14To17PointsAllowed": 2.0,
+          "defensive35To45PointsAllowed": 0.0,
+          "defensiveInterceptions": 2.0
+        }
+      }
+    ],
+    "K": [
+      {
+        "id": 10636,
+        "name": "Mason Crosby",
+        "team": "GB",
+        "position": "K",
+        "slot_position": "K",
+        "injury_status": "ACTIVE",
+        "actual_points": 3.0,
+        "projected_points": 7.36,
+        "points_breakdown": {
+          "madeFieldGoalsFromUnder40": 3.0
+        }
+      }
+    ],
+    "TE": [
+      {
+        "id": 3054212,
+        "name": "Jonnu Smith",
+        "team": "NE",
+        "position": "TE",
+        "slot_position": "TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 7.3,
+        "projected_points": 7.3,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "rushingYards": 0.6000000000000001,
+          "receivingYards": 4.2
+        }
+      }
+    ],
+    "RB/WR/TE": [
+      {
+        "id": 4035170,
+        "name": "Marquez Callaway",
+        "team": "NO",
+        "position": "WR",
+        "slot_position": "RB/WR/TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 1.9,
+        "projected_points": 9.28,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "receivingYards": 1.4000000000000001
+        }
+      }
+    ],
+    "QB": [
+      {
+        "id": 12483,
+        "name": "Matthew Stafford",
+        "team": "LAR",
+        "position": "QB",
+        "slot_position": "QB",
+        "injury_status": "ACTIVE",
+        "actual_points": 24.34,
+        "projected_points": 16.89,
+        "points_breakdown": {
+          "passingYards": 12.84,
+          "passingTouchdowns": 12.0,
+          "rushingYards": -0.5
+        }
+      }
+    ]
+  },
+  "17": {
+    "QB": [
+      {
+        "id": 3918298,
+        "name": "Josh Allen",
+        "team": "BUF",
+        "position": "QB",
+        "slot_position": "QB",
+        "injury_status": "ACTIVE",
+        "actual_points": 17.2,
+        "projected_points": 21.6,
+        "points_breakdown": {
+          "passingYards": 10.8,
+          "passingTouchdowns": 4.0,
+          "lostFumbles": -2.0,
+          "rushingYards": 4.4
+        }
+      }
+    ],
+    "RB": [
+      {
+        "id": 3116385,
+        "name": "Joe Mixon",
+        "team": "CIN",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 23.0,
+        "projected_points": 13.06,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "rushingYards": 12.700000000000001,
+          "rushingTouchdowns": 6.0,
+          "receivingYards": 2.3000000000000003
+        }
+      },
+      {
+        "id": 2576414,
+        "name": "Raheem Mostert",
+        "team": "SF",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "OUT",
+        "actual_points": 2.0,
+        "projected_points": 12.88,
+        "points_breakdown": {
+          "rushingYards": 2.0
+        }
+      }
+    ],
+    "WR": [
+      {
+        "id": 3925357,
+        "name": "Calvin Ridley",
+        "team": "ATL",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 7.6,
+        "projected_points": 13.3,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "receivingYards": 5.1000000000000005
+        }
+      },
+      {
+        "id": 2976499,
+        "name": "Amari Cooper",
+        "team": "DAL",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 32.4,
+        "projected_points": 12.15,
+        "points_breakdown": {
+          "receivingReceptions": 6.5,
+          "receivingYards": 13.9,
+          "receivingTouchdowns": 12.0
+        }
+      },
+      {
+        "id": 13982,
+        "name": "Julio Jones",
+        "team": "TEN",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 4.4,
+        "projected_points": 11.12,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "receivingYards": 2.9000000000000004
+        }
+      }
+    ],
+    "RB/WR/TE": [
+      {
+        "id": 15880,
+        "name": "Robert Woods",
+        "team": "LAR",
+        "position": "WR",
+        "slot_position": "RB/WR/TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 10.9,
+        "projected_points": 11.47,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "rushingYards": 0.7000000000000001,
+          "receivingYards": 2.7,
+          "receivingTouchdowns": 6.0
+        }
+      }
+    ],
+    "BE": [
+      {
+        "id": 14876,
+        "name": "Ryan Tannehill",
+        "team": "TEN",
+        "position": "QB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 14.18,
+        "projected_points": 18.26,
+        "points_breakdown": {
+          "passingYards": 8.48,
+          "passingInterceptions": -2.0,
+          "passingTouchdowns": 4.0,
+          "lostFumbles": -4.0,
+          "rushingYards": 1.7000000000000002,
+          "rushingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 3886818,
+        "name": "Myles Gaskin",
+        "team": "MIA",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 10.1,
+        "projected_points": 9.57,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "rushingYards": 4.9,
+          "receivingYards": 2.7
+        }
+      },
+      {
+        "id": 3916148,
+        "name": "Tony Pollard",
+        "team": "DAL",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 6.3,
+        "projected_points": 5.32,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "rushingYards": 1.4000000000000001,
+          "receivingYards": 2.9000000000000004
+        }
+      },
+      {
+        "id": 15920,
+        "name": "Latavius Murray",
+        "team": "BAL",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 8.8,
+        "projected_points": 6.19,
+        "points_breakdown": {
+          "rushingYards": 2.8000000000000003,
+          "rushingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 4243537,
+        "name": "Gabriel Davis",
+        "team": "BUF",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 11.0,
+        "projected_points": 6.0,
+        "points_breakdown": {
+          "receivingReceptions": 1.0,
+          "receivingYards": 4.0,
+          "receivingTouchdowns": 6.0
+        }
+      }
+    ],
+    "TE": [
+      {
+        "id": 2975674,
+        "name": "Robert Tonyan",
+        "team": "GB",
+        "position": "TE",
+        "slot_position": "TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 1.8,
+        "projected_points": 7.25,
+        "points_breakdown": {
+          "receivingReceptions": 1.0,
+          "receivingYards": 0.8
+        }
+      }
+    ],
+    "D/ST": [
+      {
+        "id": -16007,
+        "name": "Broncos D/ST",
+        "team": "DEN",
+        "position": "D/ST",
+        "slot_position": "D/ST",
+        "injury_status": "NORMAL",
+        "actual_points": 8.0,
+        "projected_points": 8.79,
+        "points_breakdown": {
+          "defensiveFumbles": 2.0,
+          "128": 0.0,
+          "defensive100To199YardsAllowed": 0.0,
+          "defensive200To299YardsAllowed": 0.0,
+          "131": 1.0,
+          "defensiveSacks": 2.0,
+          "defensive400To449YardsAllowed": 0.0,
+          "defensive450To499YardsAllowed": 0.0,
+          "defensive500To549YardsAllowed": 0.0,
+          "defensiveOver550YardsAllowed": 0.0,
+          "121": 0.0,
+          "defensive0PointsAllowed": 0.0,
+          "defensive1To6PointsAllowed": 0.0,
+          "defensive28To34PointsAllowed": 0.0,
+          "defensive7To13PointsAllowed": 3.0,
+          "defensive14To17PointsAllowed": 0.0,
+          "defensive35To45PointsAllowed": 0.0
+        }
+      }
+    ],
+    "K": [
+      {
+        "id": 3915165,
+        "name": "Rodrigo Blankenship",
+        "team": "IND",
+        "position": "K",
+        "slot_position": "K",
+        "injury_status": "ACTIVE",
+        "actual_points": 4.0,
+        "projected_points": 7.59,
+        "points_breakdown": {
+          "madeFieldGoalsFromUnder40": 3.0,
+          "madeExtraPoints": 1.0
+        }
+      }
+    ]
+  },
+  "11": {
+    "RB": [
+      {
+        "id": 4047365,
+        "name": "Josh Jacobs",
+        "team": "OAK",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 16.5,
+        "projected_points": 12.09,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "rushingYards": 3.4000000000000004,
+          "rushingTouchdowns": 12.0,
+          "receivingYards": 0.6000000000000001
+        }
+      },
+      {
+        "id": 3025433,
+        "name": "Mike Davis",
+        "team": "ATL",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 8.7,
+        "projected_points": 12.86,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "rushingYards": 4.9,
+          "receivingYards": 2.3000000000000003
+        }
+      }
+    ],
+    "TE": [
+      {
+        "id": 2576925,
+        "name": "Darren Waller",
+        "team": "OAK",
+        "position": "TE",
+        "slot_position": "TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 21.5,
+        "projected_points": 11.36,
+        "points_breakdown": {
+          "receivingReceptions": 5.0,
+          "receivingYards": 10.5,
+          "receivingTouchdowns": 6.0
+        }
+      }
+    ],
+    "BE": [
+      {
+        "id": 2979843,
+        "name": "Kenyan Drake",
+        "team": "OAK",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 9.5,
+        "projected_points": 8.47,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "rushingYards": 1.1,
+          "receivingYards": 5.9
+        }
+      },
+      {
+        "id": 4361579,
+        "name": "Javonte Williams",
+        "team": "DEN",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 4.6,
+        "projected_points": 7.75,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "rushingYards": 4.5,
+          "receivingYards": -0.4
+        }
+      },
+      {
+        "id": -16023,
+        "name": "Steelers D/ST",
+        "team": "PIT",
+        "position": "D/ST",
+        "slot_position": "BE",
+        "injury_status": "NORMAL",
+        "actual_points": 15.0,
+        "projected_points": 6.32,
+        "points_breakdown": {
+          "defensiveFumbles": 2.0,
+          "128": 0.0,
+          "defensiveBlockedKicks": 2.0,
+          "defensive100To199YardsAllowed": 0.0,
+          "defensive200To299YardsAllowed": 0.0,
+          "131": 0.0,
+          "defensiveSacks": 3.0,
+          "defensive400To449YardsAllowed": 0.0,
+          "defensive450To499YardsAllowed": 0.0,
+          "defensive500To549YardsAllowed": 0.0,
+          "defensiveOver550YardsAllowed": 0.0,
+          "121": 0.0,
+          "defensive0PointsAllowed": 0.0,
+          "defensive1To6PointsAllowed": 0.0,
+          "defensive28To34PointsAllowed": 0.0,
+          "defensive7To13PointsAllowed": 0.0,
+          "defensive14To17PointsAllowed": 2.0,
+          "defensive35To45PointsAllowed": 0.0,
+          "defensiveBlockedKickForTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 2587819,
+        "name": "Tyrell Williams",
+        "team": "DET",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "QUESTIONABLE",
+        "actual_points": 2.4,
+        "projected_points": 8.33,
+        "points_breakdown": {
+          "receivingReceptions": 1.0,
+          "receivingYards": 1.4000000000000001
+        }
+      },
+      {
+        "id": 15825,
+        "name": "Le'Veon Bell",
+        "team": "BAL",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 0.0,
+        "projected_points": 1.86,
+        "points_breakdown": {}
+      }
+    ],
+    "WR": [
+      {
+        "id": 3121422,
+        "name": "Terry McLaurin",
+        "team": "WSH",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 8.2,
+        "projected_points": 12.37,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "receivingYards": 6.2
+        }
+      },
+      {
+        "id": 16460,
+        "name": "Adam Thielen",
+        "team": "MIN",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 25.7,
+        "projected_points": 12.05,
+        "points_breakdown": {
+          "receivingReceptions": 4.5,
+          "receivingYards": 9.200000000000001,
+          "receivingTouchdowns": 12.0
+        }
+      },
+      {
+        "id": 4360438,
+        "name": "Brandon Aiyuk",
+        "team": "SF",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "QUESTIONABLE",
+        "actual_points": 0.0,
+        "projected_points": 11.71,
+        "points_breakdown": {
+          "115": 7.0,
+          "TeamWin": 1.0
+        }
+      }
+    ],
+    "QB": [
+      {
+        "id": 3917315,
+        "name": "Kyler Murray",
+        "team": "ARI",
+        "position": "QB",
+        "slot_position": "QB",
+        "injury_status": "ACTIVE",
+        "actual_points": 33.56,
+        "projected_points": 22.17,
+        "points_breakdown": {
+          "passingYards": 11.56,
+          "passingInterceptions": -2.0,
+          "passingTouchdowns": 16.0,
+          "rushingYards": 2.0,
+          "rushingTouchdowns": 6.0
+        }
+      }
+    ],
+    "RB/WR/TE": [
+      {
+        "id": 4241475,
+        "name": "Henry Ruggs III",
+        "team": "OAK",
+        "position": "WR",
+        "slot_position": "RB/WR/TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 5.6,
+        "projected_points": 8.51,
+        "points_breakdown": {
+          "receivingReceptions": 1.0,
+          "receivingYards": 4.6000000000000005
+        }
+      }
+    ],
+    "K": [
+      {
+        "id": 12460,
+        "name": "Graham Gano",
+        "team": "NYG",
+        "position": "K",
+        "slot_position": "K",
+        "injury_status": "ACTIVE",
+        "actual_points": 1.0,
+        "projected_points": 7.81,
+        "points_breakdown": {
+          "madeExtraPoints": 1.0
+        }
+      }
+    ],
+    "D/ST": [
+      {
+        "id": -16016,
+        "name": "Vikings D/ST",
+        "team": "MIN",
+        "position": "D/ST",
+        "slot_position": "D/ST",
+        "injury_status": "NORMAL",
+        "actual_points": 5.0,
+        "projected_points": 8.04,
+        "points_breakdown": {
+          "128": 0.0,
+          "defensive100To199YardsAllowed": 0.0,
+          "defensive200To299YardsAllowed": 0.0,
+          "131": 0.0,
+          "defensiveSacks": 5.0,
+          "defensive400To449YardsAllowed": 0.0,
+          "defensive450To499YardsAllowed": 0.0,
+          "defensive500To549YardsAllowed": 0.0,
+          "defensiveOver550YardsAllowed": 0.0,
+          "121": 0.0,
+          "defensive0PointsAllowed": 0.0,
+          "defensive1To6PointsAllowed": 0.0,
+          "defensive28To34PointsAllowed": 0.0,
+          "defensive7To13PointsAllowed": 0.0,
+          "defensive14To17PointsAllowed": 0.0,
+          "defensive35To45PointsAllowed": 0.0
+        }
+      }
+    ]
+  },
+  "12": {
+    "BE": [
+      {
+        "id": 4038941,
+        "name": "Justin Herbert",
+        "team": "LAC",
+        "position": "QB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 13.38,
+        "projected_points": 17.8,
+        "points_breakdown": {
+          "passingYards": 13.48,
+          "passingInterceptions": -2.0,
+          "passingTouchdowns": 4.0,
+          "lostFumbles": -2.0,
+          "rushingYards": -0.1
+        }
+      },
+      {
+        "id": 4046692,
+        "name": "Chase Claypool",
+        "team": "PIT",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 8.5,
+        "projected_points": 10.23,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "rushingYards": 2.5,
+          "receivingYards": 4.5
+        }
+      },
+      {
+        "id": 3128721,
+        "name": "Sony Michel",
+        "team": "LAR",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 0.2,
+        "projected_points": 7.62,
+        "points_breakdown": {
+          "rushingYards": 0.2
+        }
+      },
+      {
+        "id": 16813,
+        "name": "Logan Thomas",
+        "team": "WSH",
+        "position": "TE",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 10.5,
+        "projected_points": 8.51,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "receivingYards": 3.0,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 3045147,
+        "name": "James Conner",
+        "team": "ARI",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 5.3,
+        "projected_points": 8.34,
+        "points_breakdown": {
+          "rushingYards": 5.300000000000001
+        }
+      }
+    ],
+    "RB": [
+      {
+        "id": 3128720,
+        "name": "Nick Chubb",
+        "team": "CLE",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 21.1,
+        "projected_points": 14.15,
+        "points_breakdown": {
+          "receivingReceptions": 1.0,
+          "lostFumbles": -2.0,
+          "rushingYards": 8.3,
+          "rushingTouchdowns": 12.0,
+          "receivingYards": 1.8
+        }
+      },
+      {
+        "id": 3895827,
+        "name": "Ty'Son Williams",
+        "team": "BAL",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 16.9,
+        "projected_points": 10.32,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "rushingYards": 6.5,
+          "rushingTouchdowns": 6.0,
+          "receivingYards": 2.9000000000000004
+        }
+      }
+    ],
+    "WR": [
+      {
+        "id": 4047646,
+        "name": "A.J. Brown",
+        "team": "TEN",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 12.9,
+        "projected_points": 13.71,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "receivingYards": 4.9,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 3915416,
+        "name": "DJ Moore",
+        "team": "CAR",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 12.4,
+        "projected_points": 11.14,
+        "points_breakdown": {
+          "receivingReceptions": 3.0,
+          "rushingYards": 1.4000000000000001,
+          "receivingYards": 8.0
+        }
+      },
+      {
+        "id": 3932905,
+        "name": "Diontae Johnson",
+        "team": "PIT",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 12.1,
+        "projected_points": 10.64,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "receivingYards": 3.6,
+          "receivingTouchdowns": 6.0
+        }
+      }
+    ],
+    "D/ST": [
+      {
+        "id": -16033,
+        "name": "Ravens D/ST",
+        "team": "BAL",
+        "position": "D/ST",
+        "slot_position": "D/ST",
+        "injury_status": "NORMAL",
+        "actual_points": 1.0,
+        "projected_points": 6.98,
+        "points_breakdown": {
+          "128": 0.0,
+          "defensive100To199YardsAllowed": 0.0,
+          "defensive200To299YardsAllowed": 0.0,
+          "131": 0.0,
+          "defensiveSacks": 3.0,
+          "defensive400To449YardsAllowed": 0.0,
+          "defensive450To499YardsAllowed": -3.0,
+          "defensive500To549YardsAllowed": 0.0,
+          "defensiveOver550YardsAllowed": 0.0,
+          "121": 0.0,
+          "defensive0PointsAllowed": 0.0,
+          "defensive1To6PointsAllowed": 0.0,
+          "defensive28To34PointsAllowed": -1.0,
+          "defensive7To13PointsAllowed": 0.0,
+          "defensive14To17PointsAllowed": 0.0,
+          "defensive35To45PointsAllowed": 0.0,
+          "defensiveInterceptions": 2.0
+        }
+      }
+    ],
+    "RB/WR/TE": [
+      {
+        "id": 4243160,
+        "name": "Laviska Shenault Jr.",
+        "team": "JAX",
+        "position": "WR",
+        "slot_position": "RB/WR/TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 9.4,
+        "projected_points": 9.81,
+        "points_breakdown": {
+          "receivingReceptions": 3.5,
+          "rushingYards": 0.9,
+          "receivingYards": 5.0
+        }
+      }
+    ],
+    "TE": [
+      {
+        "id": 4036133,
+        "name": "T.J. Hockenson",
+        "team": "DET",
+        "position": "TE",
+        "slot_position": "TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 21.7,
+        "projected_points": 9.24,
+        "points_breakdown": {
+          "receivingReceptions": 4.0,
+          "receivingYards": 9.700000000000001,
+          "receivingTouchdowns": 6.0,
+          "receiving2PtConversions": 2.0
+        }
+      }
+    ],
+    "QB": [
+      {
+        "id": 2330,
+        "name": "Tom Brady",
+        "team": "TB",
+        "position": "QB",
+        "slot_position": "QB",
+        "injury_status": "ACTIVE",
+        "actual_points": 27.16,
+        "projected_points": 21.54,
+        "points_breakdown": {
+          "passingYards": 15.16,
+          "passingInterceptions": -4.0,
+          "passingTouchdowns": 16.0
+        }
+      }
+    ],
+    "K": [
+      {
+        "id": 15683,
+        "name": "Justin Tucker",
+        "team": "BAL",
+        "position": "K",
+        "slot_position": "K",
+        "injury_status": "ACTIVE",
+        "actual_points": 11.0,
+        "projected_points": 8.14,
+        "points_breakdown": {
+          "madeExtraPoints": 3.0,
+          "madeFieldGoalsFrom40To49": 8.0
+        }
+      }
+    ]
+  },
+  "10": {
+    "TE": [
+      {
+        "id": 15847,
+        "name": "Travis Kelce",
+        "team": "KC",
+        "position": "TE",
+        "slot_position": "TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 22.6,
+        "projected_points": 14.85,
+        "points_breakdown": {
+          "receivingReceptions": 3.0,
+          "receivingYards": 7.6000000000000005,
+          "receivingTouchdowns": 12.0
+        }
+      }
+    ],
+    "RB": [
+      {
+        "id": 3054850,
+        "name": "Alvin Kamara",
+        "team": "NO",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 16.6,
+        "projected_points": 15.11,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "rushingYards": 8.3,
+          "receivingYards": 0.8,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 3919596,
+        "name": "Chris Carson",
+        "team": "SEA",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 11.2,
+        "projected_points": 11.68,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "lostFumbles": -2.0,
+          "rushingYards": 9.1,
+          "receivingYards": 2.6
+        }
+      }
+    ],
+    "RB/WR/TE": [
+      {
+        "id": 4045163,
+        "name": "Miles Sanders",
+        "team": "PHI",
+        "position": "RB",
+        "slot_position": "RB/WR/TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 15.3,
+        "projected_points": 13.05,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "rushingYards": 7.4,
+          "rushing2PtConversions": 2.0,
+          "receivingYards": 3.9000000000000004
+        }
+      }
+    ],
+    "BE": [
+      {
+        "id": -16027,
+        "name": "Buccaneers D/ST",
+        "team": "TB",
+        "position": "D/ST",
+        "slot_position": "BE",
+        "injury_status": "NORMAL",
+        "actual_points": -1.0,
+        "projected_points": 5.87,
+        "points_breakdown": {
+          "128": 0.0,
+          "defensive100To199YardsAllowed": 0.0,
+          "defensive200To299YardsAllowed": 0.0,
+          "131": 0.0,
+          "defensiveSacks": 1.0,
+          "defensive400To449YardsAllowed": 0.0,
+          "defensive450To499YardsAllowed": -3.0,
+          "defensive500To549YardsAllowed": 0.0,
+          "defensiveOver550YardsAllowed": 0.0,
+          "121": 0.0,
+          "defensive0PointsAllowed": 0.0,
+          "defensive1To6PointsAllowed": 0.0,
+          "defensive28To34PointsAllowed": -1.0,
+          "defensive7To13PointsAllowed": 0.0,
+          "defensive14To17PointsAllowed": 0.0,
+          "defensive35To45PointsAllowed": 0.0,
+          "defensiveInterceptions": 2.0
+        }
+      },
+      {
+        "id": 3052587,
+        "name": "Baker Mayfield",
+        "team": "CLE",
+        "position": "QB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 12.64,
+        "projected_points": 17.57,
+        "points_breakdown": {
+          "passingYards": 12.84,
+          "passingInterceptions": -2.0,
+          "rushingYards": 0.7000000000000001,
+          "receivingYards": 1.1
+        }
+      },
+      {
+        "id": 15072,
+        "name": "Marvin Jones Jr.",
+        "team": "JAX",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 16.2,
+        "projected_points": 9.79,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "receivingYards": 7.7,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 4035687,
+        "name": "Michael Pittman Jr.",
+        "team": "IND",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 4.4,
+        "projected_points": 9.14,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "receivingYards": 2.9000000000000004
+        }
+      },
+      {
+        "id": 3912550,
+        "name": "Ronald Jones II",
+        "team": "TB",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": -0.6,
+        "projected_points": 8.59,
+        "points_breakdown": {
+          "lostFumbles": -2.0,
+          "rushingYards": 1.4000000000000001
+        }
+      }
+    ],
+    "WR": [
+      {
+        "id": 3128429,
+        "name": "Courtland Sutton",
+        "team": "DEN",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 1.9,
+        "projected_points": 9.91,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "receivingYards": 1.4000000000000001
+        }
+      },
+      {
+        "id": 13934,
+        "name": "Antonio Brown",
+        "team": "TB",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 21.2,
+        "projected_points": 9.46,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "rushingYards": 0.6000000000000001,
+          "receivingYards": 12.100000000000001,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 3042778,
+        "name": "Corey Davis",
+        "team": "NYJ",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 24.2,
+        "projected_points": 10.02,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "receivingYards": 9.700000000000001,
+          "receivingTouchdowns": 12.0
+        }
+      }
+    ],
+    "K": [
+      {
+        "id": 4249087,
+        "name": "Matt Gay",
+        "team": "LAR",
+        "position": "K",
+        "slot_position": "K",
+        "injury_status": "ACTIVE",
+        "actual_points": 12.0,
+        "projected_points": 8.51,
+        "points_breakdown": {
+          "madeFieldGoalsFromUnder40": 3.0,
+          "madeExtraPoints": 4.0,
+          "198": 5.0
+        }
+      }
+    ],
+    "QB": [
+      {
+        "id": 11237,
+        "name": "Matt Ryan",
+        "team": "ATL",
+        "position": "QB",
+        "slot_position": "QB",
+        "injury_status": "ACTIVE",
+        "actual_points": 7.36,
+        "projected_points": 16.53,
+        "points_breakdown": {
+          "passingYards": 6.5600000000000005,
+          "rushingYards": 0.8
+        }
+      }
+    ],
+    "D/ST": [
+      {
+        "id": -16015,
+        "name": "Dolphins D/ST",
+        "team": "MIA",
+        "position": "D/ST",
+        "slot_position": "D/ST",
+        "injury_status": "NORMAL",
+        "actual_points": 6.0,
+        "projected_points": 8.02,
+        "points_breakdown": {
+          "defensiveFumbles": 4.0,
+          "128": 0.0,
+          "defensive100To199YardsAllowed": 0.0,
+          "defensive200To299YardsAllowed": 0.0,
+          "131": 0.0,
+          "defensive400To449YardsAllowed": 0.0,
+          "defensive450To499YardsAllowed": 0.0,
+          "defensive500To549YardsAllowed": 0.0,
+          "defensiveOver550YardsAllowed": 0.0,
+          "121": 0.0,
+          "defensive0PointsAllowed": 0.0,
+          "defensive1To6PointsAllowed": 0.0,
+          "defensive28To34PointsAllowed": 0.0,
+          "defensive7To13PointsAllowed": 0.0,
+          "defensive14To17PointsAllowed": 2.0,
+          "defensive35To45PointsAllowed": 0.0
+        }
+      }
+    ]
+  },
+  "15": {
+    "WR": [
+      {
+        "id": 4047650,
+        "name": "DK Metcalf",
+        "team": "SEA",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 14.0,
+        "projected_points": 13.76,
+        "points_breakdown": {
+          "receivingReceptions": 2.0,
+          "receivingYards": 6.0,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 3116165,
+        "name": "Chris Godwin",
+        "team": "TB",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 19.0,
+        "projected_points": 11.44,
+        "points_breakdown": {
+          "receivingReceptions": 4.5,
+          "lostFumbles": -2.0,
+          "receivingYards": 10.5,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 2977187,
+        "name": "Cooper Kupp",
+        "team": "LAR",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 20.3,
+        "projected_points": 10.79,
+        "points_breakdown": {
+          "receivingReceptions": 3.5,
+          "receivingYards": 10.8,
+          "receivingTouchdowns": 6.0
+        }
+      }
+    ],
+    "RB": [
+      {
+        "id": 4242335,
+        "name": "Jonathan Taylor",
+        "team": "IND",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 14.6,
+        "projected_points": 14.36,
+        "points_breakdown": {
+          "receivingReceptions": 3.0,
+          "rushingYards": 5.6000000000000005,
+          "receivingYards": 6.0
+        }
+      },
+      {
+        "id": 4242214,
+        "name": "Clyde Edwards-Helaire",
+        "team": "KC",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 8.7,
+        "projected_points": 12.22,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "rushingYards": 4.3,
+          "receivingYards": 2.9000000000000004
+        }
+      }
+    ],
+    "QB": [
+      {
+        "id": 3915511,
+        "name": "Joe Burrow",
+        "team": "CIN",
+        "position": "QB",
+        "slot_position": "QB",
+        "injury_status": "ACTIVE",
+        "actual_points": 18.64,
+        "projected_points": 16.36,
+        "points_breakdown": {
+          "passingYards": 10.44,
+          "passingTouchdowns": 8.0,
+          "rushingYards": 0.2
+        }
+      }
+    ],
+    "K": [
+      {
+        "id": 3055899,
+        "name": "Harrison Butker",
+        "team": "KC",
+        "position": "K",
+        "slot_position": "K",
+        "injury_status": "ACTIVE",
+        "actual_points": 10.0,
+        "projected_points": 8.89,
+        "points_breakdown": {
+          "madeFieldGoalsFromUnder40": 3.0,
+          "madeExtraPoints": 3.0,
+          "madeFieldGoalsFrom40To49": 4.0
+        }
+      }
+    ],
+    "IR": [
+      {
+        "id": 2976316,
+        "name": "Michael Thomas",
+        "team": "NO",
+        "position": "WR",
+        "slot_position": "IR",
+        "injury_status": "OUT",
+        "actual_points": 0.0,
+        "projected_points": 0.0,
+        "points_breakdown": {}
+      }
+    ],
+    "RB/WR/TE": [
+      {
+        "id": 16731,
+        "name": "Brandin Cooks",
+        "team": "HOU",
+        "position": "WR",
+        "slot_position": "RB/WR/TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 15.7,
+        "projected_points": 10.18,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "receivingYards": 13.200000000000001
+        }
+      }
+    ],
+    "BE": [
+      {
+        "id": 3051876,
+        "name": "Evan Engram",
+        "team": "NYG",
+        "position": "TE",
+        "slot_position": "BE",
+        "injury_status": "OUT",
+        "actual_points": 0.0,
+        "projected_points": 0.0,
+        "points_breakdown": {}
+      },
+      {
+        "id": 4240657,
+        "name": "Michael Carter",
+        "team": "NYJ",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 2.5,
+        "projected_points": 7.13,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "rushingYards": 0.6000000000000001,
+          "receivingYards": 1.4000000000000001
+        }
+      },
+      {
+        "id": 4035004,
+        "name": "Mecole Hardman",
+        "team": "KC",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 3.4,
+        "projected_points": 7.91,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "receivingYards": 1.9000000000000001
+        }
+      },
+      {
+        "id": 2570986,
+        "name": "Malcolm Brown",
+        "team": "MIA",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 1.6,
+        "projected_points": 5.84,
+        "points_breakdown": {
+          "rushingYards": 1.6
+        }
+      },
+      {
+        "id": 4240600,
+        "name": "Kadarius Toney",
+        "team": "NYG",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 0.8,
+        "projected_points": 2.91,
+        "points_breakdown": {
+          "receivingReceptions": 1.0,
+          "receivingYards": -0.2
+        }
+      }
+    ],
+    "TE": [
+      {
+        "id": 3049698,
+        "name": "Anthony Firkser",
+        "team": "TEN",
+        "position": "TE",
+        "slot_position": "TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 3.4,
+        "projected_points": 5.92,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "receivingYards": 1.9000000000000001
+        }
+      }
+    ],
+    "D/ST": [
+      {
+        "id": -16009,
+        "name": "Packers D/ST",
+        "team": "GB",
+        "position": "D/ST",
+        "slot_position": "D/ST",
+        "injury_status": "NORMAL",
+        "actual_points": -2.0,
+        "projected_points": 7.79,
+        "points_breakdown": {
+          "128": 0.0,
+          "defensive100To199YardsAllowed": 0.0,
+          "defensive200To299YardsAllowed": 0.0,
+          "131": 1.0,
+          "defensive400To449YardsAllowed": 0.0,
+          "defensive450To499YardsAllowed": 0.0,
+          "defensive500To549YardsAllowed": 0.0,
+          "defensiveOver550YardsAllowed": 0.0,
+          "121": 0.0,
+          "defensive0PointsAllowed": 0.0,
+          "defensive1To6PointsAllowed": 0.0,
+          "defensive28To34PointsAllowed": 0.0,
+          "defensive7To13PointsAllowed": 0.0,
+          "defensive14To17PointsAllowed": 0.0,
+          "defensive35To45PointsAllowed": -3.0
+        }
+      }
+    ]
+  },
+  "3": {
+    "WR": [
+      {
+        "id": 15795,
+        "name": "DeAndre Hopkins",
+        "team": "ARI",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 23.3,
+        "projected_points": 14.38,
+        "points_breakdown": {
+          "receivingReceptions": 3.0,
+          "receivingYards": 8.3,
+          "receivingTouchdowns": 12.0
+        }
+      },
+      {
+        "id": 4262921,
+        "name": "Justin Jefferson",
+        "team": "MIN",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 10.04,
+        "projected_points": 12.83,
+        "points_breakdown": {
+          "passingYards": 0.44,
+          "receivingReceptions": 2.5,
+          "receivingYards": 7.1000000000000005
+        }
+      },
+      {
+        "id": 2574808,
+        "name": "Robby Anderson",
+        "team": "CAR",
+        "position": "WR",
+        "slot_position": "WR",
+        "injury_status": "ACTIVE",
+        "actual_points": 12.2,
+        "projected_points": 10.46,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "receivingYards": 5.7,
+          "receivingTouchdowns": 6.0
+        }
+      }
+    ],
+    "RB": [
+      {
+        "id": 3068267,
+        "name": "Austin Ekeler",
+        "team": "LAC",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "ACTIVE",
+        "actual_points": 11.7,
+        "projected_points": 12.72,
+        "points_breakdown": {
+          "rushingYards": 5.7,
+          "rushingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 4360294,
+        "name": "Antonio Gibson",
+        "team": "WSH",
+        "position": "RB",
+        "slot_position": "RB",
+        "injury_status": "QUESTIONABLE",
+        "actual_points": 10.3,
+        "projected_points": 14.6,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "lostFumbles": -2.0,
+          "rushingYards": 9.0,
+          "receivingYards": 1.8
+        }
+      }
+    ],
+    "RB/WR/TE": [
+      {
+        "id": 3115364,
+        "name": "Leonard Fournette",
+        "team": "TB",
+        "position": "RB",
+        "slot_position": "RB/WR/TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 8.4,
+        "projected_points": 8.89,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "rushingYards": 3.2,
+          "receivingYards": 2.7
+        }
+      }
+    ],
+    "K": [
+      {
+        "id": 2473037,
+        "name": "Jason Myers",
+        "team": "SEA",
+        "position": "K",
+        "slot_position": "K",
+        "injury_status": "ACTIVE",
+        "actual_points": 4.0,
+        "projected_points": 8.04,
+        "points_breakdown": {
+          "madeExtraPoints": 4.0
+        }
+      }
+    ],
+    "BE": [
+      {
+        "id": 4239934,
+        "name": "AJ Dillon",
+        "team": "GB",
+        "position": "RB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 3.1,
+        "projected_points": 7.58,
+        "points_breakdown": {
+          "receivingReceptions": 0.5,
+          "rushingYards": 1.9000000000000001,
+          "receivingYards": 0.7000000000000001
+        }
+      },
+      {
+        "id": 2573401,
+        "name": "Tyler Higbee",
+        "team": "LAR",
+        "position": "TE",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 9.3,
+        "projected_points": 6.44,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "receivingYards": 6.800000000000001
+        }
+      },
+      {
+        "id": 5536,
+        "name": "Ben Roethlisberger",
+        "team": "PIT",
+        "position": "QB",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 12.02,
+        "projected_points": 16.34,
+        "points_breakdown": {
+          "passingYards": 7.5200000000000005,
+          "passingTouchdowns": 4.0,
+          "rushingYards": 0.5
+        }
+      },
+      {
+        "id": 2976592,
+        "name": "Sterling Shepard",
+        "team": "NYG",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 20.8,
+        "projected_points": 8.03,
+        "points_breakdown": {
+          "receivingReceptions": 3.5,
+          "receivingYards": 11.3,
+          "receivingTouchdowns": 6.0
+        }
+      },
+      {
+        "id": 2971618,
+        "name": "Nelson Agholor",
+        "team": "NE",
+        "position": "WR",
+        "slot_position": "BE",
+        "injury_status": "ACTIVE",
+        "actual_points": 15.7,
+        "projected_points": 7.37,
+        "points_breakdown": {
+          "receivingReceptions": 2.5,
+          "receivingYards": 7.2,
+          "receivingTouchdowns": 6.0
+        }
+      }
+    ],
+    "D/ST": [
+      {
+        "id": -16017,
+        "name": "Patriots D/ST",
+        "team": "NE",
+        "position": "D/ST",
+        "slot_position": "D/ST",
+        "injury_status": "NORMAL",
+        "actual_points": 8.0,
+        "projected_points": 7.76,
+        "points_breakdown": {
+          "128": 0.0,
+          "defensive100To199YardsAllowed": 0.0,
+          "defensive200To299YardsAllowed": 2.0,
+          "131": 0.0,
+          "defensiveSacks": 2.0,
+          "defensive400To449YardsAllowed": 0.0,
+          "defensive450To499YardsAllowed": 0.0,
+          "defensive500To549YardsAllowed": 0.0,
+          "defensiveOver550YardsAllowed": 0.0,
+          "121": 0.0,
+          "defensive0PointsAllowed": 0.0,
+          "defensive1To6PointsAllowed": 0.0,
+          "defensive28To34PointsAllowed": 0.0,
+          "defensive7To13PointsAllowed": 0.0,
+          "defensive14To17PointsAllowed": 2.0,
+          "defensive35To45PointsAllowed": 0.0,
+          "defensiveInterceptions": 2.0
+        }
+      }
+    ],
+    "QB": [
+      {
+        "id": 8664,
+        "name": "Ryan Fitzpatrick",
+        "team": "WSH",
+        "position": "QB",
+        "slot_position": "QB",
+        "injury_status": "OUT",
+        "actual_points": 0.72,
+        "projected_points": 17.67,
+        "points_breakdown": {
+          "passingYards": 0.52,
+          "rushingYards": 0.2
+        }
+      }
+    ],
+    "TE": [
+      {
+        "id": 3043275,
+        "name": "Austin Hooper",
+        "team": "CLE",
+        "position": "TE",
+        "slot_position": "TE",
+        "injury_status": "ACTIVE",
+        "actual_points": 4.2,
+        "projected_points": 6.74,
+        "points_breakdown": {
+          "receivingReceptions": 1.5,
+          "receivingYards": 2.7
+        }
+      }
+    ]
+  }
+}
