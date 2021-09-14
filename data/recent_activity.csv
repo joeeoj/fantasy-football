@@ -1,4 +1,12 @@
 datetime,team_id,team_name,player_name,player_id,cost,move
+2021-09-12 09:02:13.197000-07:00,1,Fully  Maccinated,James White,16913,0,FA ADDED
+2021-09-12 09:01:21.198000-07:00,1,Fully  Maccinated,Gus Edwards,3051926,0,DROPPED
+2021-09-12 07:26:23.556000-07:00,15,Elite starts  with Eli,Packers D/ST,-16009,0,FA ADDED
+2021-09-12 07:26:23.556000-07:00,15,Elite starts  with Eli,Saints D/ST,-16018,0,DROPPED
+2021-09-12 07:10:20.073000-07:00,2,Rippin' Swigs,Justin Jackson,3116136,0,DROPPED
+2021-09-12 07:10:20.073000-07:00,2,Rippin' Swigs,Elijah Moore,4372414,0,FA ADDED
+2021-09-11 20:48:38.083000-07:00,11,Raiders Are Good,Devin Singletary,4040761,0,DROPPED
+2021-09-11 20:48:38.083000-07:00,11,Raiders Are Good,Vikings D/ST,-16016,0,FA ADDED
 2021-09-11 12:31:00.047000-07:00,19,Federal Way Yu,Bills D/ST,-16002,0,DROPPED
 2021-09-11 12:31:00.047000-07:00,19,Federal Way Yu,49ers D/ST,-16025,0,FA ADDED
 2021-09-11 12:25:44.892000-07:00,17,Scooty Lewis and the News,Trey Lance,4383351,0,DROPPED
