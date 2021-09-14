@@ -14,7 +14,7 @@ POSITIONS = ['qb', 'rb', 'wr', 'te', 'k', 'dst']
 URL = 'https://www.fantasypros.com/nfl/matchups/{pos}.php'
 
 # ECR = expert consensus ranking
-HEADER = ['ecr', 'pos', 'player_name', 'team', 'week', 'matchup_rating', 'opponent', 'opponent_rank', 'home_away']
+HEADER = ['ecr', 'pos', 'team', 'player_name', 'week', 'matchup_rating', 'opponent', 'opponent_rank', 'home_away']
 DATA_DIR = Path.cwd().parent / 'data'
 
 
