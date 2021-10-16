@@ -42,14 +42,14 @@ def parse_player_data(p: BoxPlayer) -> dict:
         'team': p.proTeam,
         'projected_points': p.projected_points,
         'points': p.points,
-        'current_position': p.slot_position,
+        'current_position': p.slot_position if p.slot_position != 'RB/WR/TE' else 'FLEX',
         'QB': 'QB' in slots, 
         'RB': 'RB' in slots, 
         'WR': 'WR' in slots, 
         'TE': 'TE' in slots, 
-        'RB/WR/TE': 'RB/WR/TE' in slots, 
+        'FLEX': 'RB/WR/TE' in slots, 
         'K': 'K' in slots, 
-        'D/ST': 'D/ST' in slots,
+        'DST': 'D/ST' in slots,
     }
 
 
