@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import argparse
 from collections import defaultdict
 import csv
 from datetime import date
@@ -15,6 +16,7 @@ LEAGUE_ID = 17588244
 DATA_DIR = Path(__file__).parent.parent / 'data'
 YEAR = date.today().year if date.today().month in [9, 10, 11, 12] else (date.today().year - 1)
 NOT_PLAYING = set(['BE', 'IR'])  # non-playing slots
+
 # RB/WR/TE = FLEX
 # we do not have OP, RB/WR, WR/TE, or Rookie
 LEAGUE_SLOTS = {
@@ -24,7 +26,7 @@ LEAGUE_SLOTS = {
     'TE': 1,
     'RB/WR/TE': 1,
     'K': 1,
-    'DST': 1,
+    'D/ST': 1,
     'BE': 5,
     'IR': 1,
 }
@@ -39,6 +41,7 @@ def parse_player_data(p: BoxPlayer) -> dict:
         'pos': p.position,
         'team': p.proTeam,
         'projected_points': p.projected_points,
+        'points': p.points,
         'current_position': p.slot_position,
         'QB': 'QB' in slots, 
         'RB': 'RB' in slots, 
@@ -46,7 +49,7 @@ def parse_player_data(p: BoxPlayer) -> dict:
         'TE': 'TE' in slots, 
         'RB/WR/TE': 'RB/WR/TE' in slots, 
         'K': 'K' in slots, 
-        'DST': 'DST' in slots,
+        'D/ST': 'D/ST' in slots,
     }
 
 
@@ -81,12 +84,11 @@ def parse_lineups(box_score: BoxScore, week: int) -> list[BoxPlayer]:
     return players
 
 
-if __name__ == '__main__':
-    league = League(league_id=LEAGUE_ID, year=YEAR)
-    week = league.current_week
-    print(f'Current week: {week}')
+def download_and_save(current_week: int, week: int) -> None:
+    print(f' Current week: {current_week}')
+    print(f'Week to parse: {week}')
 
-    box_scores = league.box_scores()
+    box_scores = league.box_scores(week=week)
     lineups = list(chain.from_iterable([parse_lineups(bs, week) for bs in box_scores]))
     print(f'Players parsed: {len(lineups):,}')
 
@@ -96,3 +98,21 @@ if __name__ == '__main__':
         csvwriter = csv.DictWriter(f, fieldnames=lineups[0].keys())
         csvwriter.writeheader()
         csvwriter.writerows(lineups)
+
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser('lineup', description='Get weekly lineups')
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument('--all', help='Download all weeks', action='store_true')
+    group.add_argument('--week', help='Week to download (default is the current week)', type=int)
+    args = parser.parse_args()
+
+    league = League(league_id=LEAGUE_ID, year=YEAR)
+    current_week = league.current_week
+    week = current_week if args.week is not None or args.week == current_week else args.week
+
+    if args.all:
+        for week in range(1, current_week+1):
+            download_and_save(current_week, week)
+    else:
+        download_and_save(current_week, week)

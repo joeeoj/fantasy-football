@@ -1,0 +1,187 @@
+player_id,player_name,pos,team,projected_points,points,current_position,QB,RB,WR,TE,RB/WR/TE,K,D/ST,week,fantasy_team_id,fantasy_team_name,opponent_team_id,opponent_team_name,home_away
+3116593,Dalvin Cook,RB,MIN,19.07,5.4,RB,False,True,False,False,True,False,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+3139477,Patrick Mahomes,QB,KC,23.17,31.72,QB,True,False,False,False,False,False,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+3116406,Tyreek Hill,WR,KC,15.08,42.1,WR,False,False,True,False,True,False,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+3059915,Kareem Hunt,RB,CLE,11.24,15.6,RB,False,True,False,False,True,False,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+8439,Aaron Rodgers,QB,GB,19.07,24.12,BE,True,False,False,False,False,False,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+3116365,Mark Andrews,TE,BAL,9.24,9.2,TE,False,False,False,True,True,False,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+4362628,Ja'Marr Chase,WR,CIN,12.95,10.7,WR,False,False,True,False,True,False,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+4036348,Michael Gallup,WR,DAL,0.0,0.0,IR,False,False,True,False,True,False,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+2572861,J.D. McKissic,RB,WSH,7.02,14.4,BE,False,True,False,False,True,False,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+4048244,Alexander Mattison,RB,MIN,3.22,2.0,BE,False,True,False,False,True,False,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+15349,Cole Beasley,WR,BUF,9.74,2.6,WR,False,False,True,False,True,False,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+4371733,Kenneth Gainwell,RB,PHI,7.67,17.9,BE,False,True,False,False,True,False,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+13295,Emmanuel Sanders,WR,BUF,9.24,10.6,RB/WR/TE,False,False,True,False,True,False,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+-16004,Bengals D/ST,D/ST,CIN,9.11,3.0,D/ST,False,False,False,False,False,False,True,4,19,Federal Way Yu,11,Raiders Are Good,home
+4362630,Terrace Marshall Jr.,WR,CAR,7.59,0.7,BE,False,False,True,False,True,False,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+14993,Greg Zuerlein,K,DAL,8.34,6.0,K,False,False,False,False,False,True,False,4,19,Federal Way Yu,11,Raiders Are Good,home
+4047365,Josh Jacobs,RB,OAK,12.46,8.2,BE,False,True,False,False,True,False,False,4,11,Raiders Are Good,19,Federal Way Yu,away
+2576925,Darren Waller,TE,OAK,13.45,13.0,TE,False,False,False,True,True,False,False,4,11,Raiders Are Good,19,Federal Way Yu,away
+2979843,Kenyan Drake,RB,OAK,8.86,0.2,RB,False,True,False,False,True,False,False,4,11,Raiders Are Good,19,Federal Way Yu,away
+3121422,Terry McLaurin,WR,WSH,12.49,27.3,WR,False,False,True,False,True,False,False,4,11,Raiders Are Good,19,Federal Way Yu,away
+3917315,Kyler Murray,QB,ARI,22.09,22.62,QB,True,False,False,False,False,False,False,4,11,Raiders Are Good,19,Federal Way Yu,away
+4361579,Javonte Williams,RB,DEN,9.47,7.4,BE,False,True,False,False,True,False,False,4,11,Raiders Are Good,19,Federal Way Yu,away
+4241475,Henry Ruggs III,WR,OAK,9.72,7.5,WR,False,False,True,False,True,False,False,4,11,Raiders Are Good,19,Federal Way Yu,away
+16460,Adam Thielen,WR,MIN,12.66,6.1,WR,False,False,True,False,True,False,False,4,11,Raiders Are Good,19,Federal Way Yu,away
+4360438,Brandon Aiyuk,WR,SF,8.6,2.0,RB/WR/TE,False,False,True,False,True,False,False,4,11,Raiders Are Good,19,Federal Way Yu,away
+3025433,Mike Davis,RB,ATL,11.92,9.6,RB,False,True,False,False,True,False,False,4,11,Raiders Are Good,19,Federal Way Yu,away
+-16023,Steelers D/ST,D/ST,PIT,5.93,5.0,BE,False,False,False,False,False,False,True,4,11,Raiders Are Good,19,Federal Way Yu,away
+-16002,Bills D/ST,D/ST,BUF,8.76,23.0,D/ST,False,False,False,False,False,False,True,4,11,Raiders Are Good,19,Federal Way Yu,away
+3051909,Daniel Carlson,K,OAK,8.16,1.0,K,False,False,False,False,False,True,False,4,11,Raiders Are Good,19,Federal Way Yu,away
+13981,Mark Ingram II,RB,HOU,7.46,2.4,BE,False,True,False,False,True,False,False,4,11,Raiders Are Good,19,Federal Way Yu,away
+3916566,K.J. Osborn,WR,MIN,6.89,5.1,BE,False,False,True,False,True,False,False,4,11,Raiders Are Good,19,Federal Way Yu,away
+15847,Travis Kelce,TE,KC,14.84,4.3,TE,False,False,False,True,True,False,False,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+3054850,Alvin Kamara,RB,NO,19.23,12.0,RB,False,True,False,False,True,False,False,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+3919596,Chris Carson,RB,SEA,14.17,3.6,RB,False,True,False,False,True,False,False,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+4045163,Miles Sanders,RB,PHI,12.95,6.2,RB/WR/TE,False,True,False,False,True,False,False,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+-16027,Buccaneers D/ST,D/ST,TB,8.13,12.0,D/ST,False,False,False,False,False,False,True,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+3128429,Courtland Sutton,WR,DEN,11.39,6.2,WR,False,False,True,False,True,False,False,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+13934,Antonio Brown,WR,TB,9.2,9.8,BE,False,False,True,False,True,False,False,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+3052587,Baker Mayfield,QB,CLE,17.18,9.3,QB,True,False,False,False,False,False,False,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+3042778,Corey Davis,WR,NYJ,10.67,19.1,BE,False,False,True,False,True,False,False,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+15072,Marvin Jones Jr.,WR,JAX,11.78,3.9,WR,False,False,True,False,True,False,False,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+4035687,Michael Pittman Jr.,WR,IND,10.59,8.9,WR,False,False,True,False,True,False,False,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+4249087,Matt Gay,K,LAR,8.47,8.0,K,False,False,False,False,False,True,False,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+3912550,Ronald Jones II,RB,TB,7.38,8.5,BE,False,True,False,False,True,False,False,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+-16033,Ravens D/ST,D/ST,BAL,6.63,12.0,BE,False,False,False,False,False,False,True,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+16728,Teddy Bridgewater,QB,DEN,17.0,6.8,BE,True,False,False,False,False,False,False,4,10,Spenny Willy,13,Ceedee's Nuts!,home
+16800,Davante Adams,WR,GB,16.81,9.4,WR,False,False,True,False,True,False,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+4241457,Najee Harris,RB,PIT,14.96,18.1,RB,False,True,False,False,True,False,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+3119195,Chase Edmonds,RB,ARI,11.99,15.9,RB,False,True,False,False,True,False,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+4360310,Trevor Lawrence,QB,JAX,15.42,17.76,BE,True,False,False,False,False,False,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+4241389,CeeDee Lamb,WR,DAL,13.07,2.3,WR,False,False,True,False,True,False,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+-16014,Rams D/ST,D/ST,LAR,6.13,-3.0,D/ST,False,False,False,False,False,False,True,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+10636,Mason Crosby,K,GB,7.74,9.0,K,False,False,False,False,False,True,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+2974858,Kenny Golladay,WR,NYG,10.4,14.6,RB/WR/TE,False,False,True,False,True,False,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+3054212,Jonnu Smith,TE,NE,6.7,8.9,BE,False,False,False,True,True,False,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+4035170,Marquez Callaway,WR,NO,8.31,8.4,BE,False,False,True,False,True,False,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+12483,Matthew Stafford,QB,LAR,19.41,19.3,QB,True,False,False,False,False,False,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+2980453,Jamaal Williams,RB,DET,9.29,6.6,BE,False,True,False,False,True,False,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+3121023,Dallas Goedert,TE,PHI,7.03,14.1,TE,False,False,False,True,True,False,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+3121427,Curtis Samuel,WR,WSH,8.4,3.9,IR,False,False,True,False,True,False,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+4241372,Marquise Brown,WR,BAL,10.72,17.1,WR,False,False,True,False,True,False,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+4035793,Quintez Cephus,WR,DET,6.11,10.3,BE,False,False,True,False,True,False,False,4,13,Ceedee's Nuts!,10,Spenny Willy,away
+15795,DeAndre Hopkins,WR,ARI,13.13,8.7,WR,False,False,True,False,True,False,False,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+3068267,Austin Ekeler,RB,LAC,15.22,28.0,RB,False,True,False,False,True,False,False,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+4360294,Antonio Gibson,RB,WSH,14.38,14.5,RB,False,True,False,False,True,False,False,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+4262921,Justin Jefferson,WR,MIN,14.32,17.4,WR,False,False,True,False,True,False,False,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+3115364,Leonard Fournette,RB,TB,12.18,15.4,BE,False,True,False,False,True,False,False,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+2574808,Robby Anderson,WR,CAR,9.54,7.4,RB/WR/TE,False,False,True,False,True,False,False,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+2473037,Jason Myers,K,SEA,7.39,4.0,K,False,False,False,False,False,True,False,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+4239934,AJ Dillon,RB,GB,5.3,10.2,BE,False,True,False,False,True,False,False,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+2573401,Tyler Higbee,TE,LAR,7.43,5.6,TE,False,False,False,True,True,False,False,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+-16017,Patriots D/ST,D/ST,NE,5.07,2.0,D/ST,False,False,False,False,False,False,True,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+5536,Ben Roethlisberger,QB,PIT,16.83,9.28,QB,True,False,False,False,False,False,False,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+2976592,Sterling Shepard,WR,NYG,0.0,0.0,BE,False,False,True,False,True,False,False,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+2565969,Taylor Heinicke,QB,WSH,17.29,27.9,BE,True,False,False,False,False,False,False,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+3135321,Hunter Renfrow,WR,OAK,9.65,13.5,WR,False,False,True,False,True,False,False,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+-16028,Washington D/ST,D/ST,WSH,6.95,6.0,BE,False,False,False,False,False,False,True,4,3,Seattle Fantasy Team,1,Fully  Maccinated,home
+3117251,Christian McCaffrey,RB,CAR,0.0,0.0,IR,False,True,False,False,True,False,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+16737,Mike Evans,WR,TB,12.23,11.0,WR,False,False,True,False,True,False,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+3925347,Damien Harris,RB,NE,9.9,3.6,BE,False,True,False,False,True,False,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+3916387,Lamar Jackson,QB,BAL,19.08,19.44,QB,True,False,False,False,False,False,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+2577327,Tyler Lockett,WR,SEA,13.94,4.4,WR,False,False,True,False,True,False,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+4360248,Kyle Pitts,TE,ATL,7.75,7.0,TE,False,False,False,True,True,False,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+4039359,Darrell Henderson Jr.,RB,LAR,13.54,14.1,RB,False,True,False,False,True,False,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+4241401,Trey Sermon,RB,SF,12.75,8.9,RB,False,True,False,False,True,False,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+4040715,Jalen Hurts,QB,PHI,22.16,28.18,BE,True,False,False,False,False,False,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+4038818,Bryan Edwards,WR,OAK,6.17,0.9,BE,False,False,True,False,True,False,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+3895856,Christian Kirk,WR,ARI,8.41,1.0,RB/WR/TE,False,False,True,False,True,False,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+4360939,Rashod Bateman,WR,BAL,0.0,0.0,BE,False,False,True,False,True,False,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+3134353,Tim Patrick,WR,DEN,9.68,5.4,WR,False,False,True,False,True,False,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+11122,Matt Prater,K,ARI,7.56,15.0,K,False,False,False,False,False,True,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+-16010,Titans D/ST,D/ST,TEN,8.13,3.0,D/ST,False,False,False,False,False,False,True,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+15920,Latavius Murray,RB,BAL,5.06,11.9,BE,False,True,False,False,True,False,False,4,1,Fully  Maccinated,3,Seattle Fantasy Team,away
+4047650,DK Metcalf,WR,SEA,15.83,14.5,WR,False,False,True,False,True,False,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+4242335,Jonathan Taylor,RB,IND,14.95,18.9,RB,False,True,False,False,True,False,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+4242214,Clyde Edwards-Helaire,RB,KC,12.49,18.4,RB,False,True,False,False,True,False,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+3116165,Chris Godwin,WR,TB,12.34,7.0,WR,False,False,True,False,True,False,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+3915511,Joe Burrow,QB,CIN,17.53,22.32,BE,True,False,False,False,False,False,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+3055899,Harrison Butker,K,KC,8.03,6.0,K,False,False,False,False,False,True,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+2976316,Michael Thomas,WR,NO,0.0,0.0,IR,False,False,True,False,True,False,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+2977187,Cooper Kupp,WR,LAR,15.7,8.9,WR,False,False,True,False,True,False,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+16731,Brandin Cooks,WR,HOU,12.32,7.2,RB/WR/TE,False,False,True,False,True,False,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+3051876,Evan Engram,TE,NYG,5.48,4.9,BE,False,False,False,True,True,False,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+4240657,Michael Carter,RB,NYJ,10.22,9.9,BE,False,True,False,False,True,False,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+4035004,Mecole Hardman,WR,KC,8.75,5.1,BE,False,False,True,False,True,False,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+12537,Jared Cook,TE,LAC,7.4,16.0,TE,False,False,False,True,True,False,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+15807,Cordarrelle Patterson,RB,ATL,10.69,32.1,BE,False,True,False,False,True,False,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+14880,Kirk Cousins,QB,MIN,17.82,10.12,QB,True,False,False,False,False,False,False,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+-16007,Broncos D/ST,D/ST,DEN,7.45,1.0,D/ST,False,False,False,False,False,False,True,4,15,Elite starts  with Eli,16,Montana 13 Washington 7,home
+3043078,Derrick Henry,RB,TEN,19.9,24.7,RB,False,True,False,False,True,False,False,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+4259545,D'Andre Swift,RB,DET,14.16,6.9,RB,False,True,False,False,True,False,False,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+4035538,David Montgomery,RB,CHI,14.71,22.6,RB/WR/TE,False,True,False,False,True,False,False,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+16733,Odell Beckham Jr.,WR,CLE,11.63,4.1,WR,False,False,True,False,True,False,False,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+4239993,Tee Higgins,WR,CIN,0.0,0.0,BE,False,False,True,False,True,False,False,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+4241463,Jerry Jeudy,WR,DEN,0.0,0.0,BE,False,False,True,False,True,False,False,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+4241478,DeVonta Smith,WR,PHI,10.85,15.7,WR,False,False,True,False,True,False,False,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+2576434,Melvin Gordon III,RB,DEN,11.05,7.7,BE,False,True,False,False,True,False,False,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+3126486,Deebo Samuel,WR,SF,13.67,31.7,WR,False,False,True,False,True,False,False,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+4036131,Noah Fant,TE,DEN,8.11,13.6,TE,False,False,False,True,True,False,False,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+4035676,Zack Moss,RB,BUF,9.55,12.1,BE,False,True,False,False,True,False,False,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+3052876,William Fuller V,WR,MIA,8.61,1.1,BE,False,False,True,False,True,False,False,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+3917232,Tyler Bass,K,BUF,7.84,16.0,K,False,False,False,False,False,True,False,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+16757,Derek Carr,QB,OAK,18.14,14.44,QB,True,False,False,False,False,False,False,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+-16006,Cowboys D/ST,D/ST,DAL,7.94,8.0,D/ST,False,False,False,False,False,False,True,4,16,Montana 13 Washington 7,15,Elite starts  with Eli,away
+4038941,Justin Herbert,QB,LAC,20.77,21.28,QB,True,False,False,False,False,False,False,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+3128720,Nick Chubb,RB,CLE,15.74,11.0,RB,False,True,False,False,True,False,False,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+4047646,A.J. Brown,WR,TEN,0.0,0.0,BE,False,False,True,False,True,False,False,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+4046692,Chase Claypool,WR,PIT,0.0,0.0,BE,False,False,True,False,True,False,False,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+3915416,DJ Moore,WR,CAR,13.48,27.9,WR,False,False,True,False,True,False,False,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+4036133,T.J. Hockenson,TE,DET,9.52,6.2,TE,False,False,False,True,True,False,False,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+3128721,Sony Michel,RB,LAR,6.11,-0.9,RB,False,True,False,False,True,False,False,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+3932905,Diontae Johnson,WR,PIT,12.63,19.7,WR,False,False,True,False,True,False,False,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+2330,Tom Brady,QB,TB,20.04,11.06,BE,True,False,False,False,False,False,False,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+16813,Logan Thomas,TE,WSH,7.36,0.0,RB/WR/TE,False,False,False,True,True,False,False,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+3045147,James Conner,RB,ARI,6.86,19.6,BE,False,True,False,False,True,False,False,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+15683,Justin Tucker,K,BAL,8.01,13.0,K,False,False,False,False,False,True,False,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+3895827,Ty'Son Williams,RB,BAL,0.0,0.0,BE,False,True,False,False,True,False,False,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+-16018,Saints D/ST,D/ST,NO,8.56,-1.0,D/ST,False,False,False,False,False,False,True,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+16725,Sammy Watkins,WR,BAL,9.37,6.9,WR,False,False,True,False,True,False,False,4,12,Herb Your Enthusiasm,18,Team Daktus Jack,home
+3929630,Saquon Barkley,RB,NYG,13.63,27.1,RB,False,True,False,False,True,False,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+4052042,James Robinson,RB,JAX,13.33,20.1,RB,False,True,False,False,True,False,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+2577417,Dak Prescott,QB,DAL,18.37,27.02,QB,True,False,False,False,False,False,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+15818,Keenan Allen,WR,LAC,14.33,7.1,WR,False,False,True,False,True,False,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+3120348,JuJu Smith-Schuster,WR,PIT,11.36,2.1,BE,False,False,True,False,True,False,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+3049899,Younghoe Koo,K,ATL,7.5,6.0,K,False,False,False,False,False,True,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+4372016,Jaylen Waddle,WR,MIA,8.9,4.8,RB/WR/TE,False,False,True,False,True,False,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+16790,Jarvis Landry,WR,CLE,0.0,0.0,IR,False,False,True,False,True,False,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+3045138,Mike Williams,WR,LAC,13.66,1.6,WR,False,False,True,False,True,False,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+13229,Rob Gronkowski,TE,TB,0.0,0.0,BE,False,False,False,True,True,False,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+3930086,Dawson Knox,TE,BUF,5.84,18.2,TE,False,False,False,True,True,False,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+15705,Josh Gordon,WR,KC,0.0,0.0,BE,False,False,True,False,True,False,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+4040761,Devin Singletary,RB,BUF,9.25,9.1,BE,False,True,False,False,True,False,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+2976499,Amari Cooper,WR,DAL,12.55,14.4,WR,False,False,True,False,True,False,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+3886818,Myles Gaskin,RB,MIA,11.27,0.3,BE,False,True,False,False,True,False,False,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+-16003,Bears D/ST,D/ST,CHI,7.25,10.0,D/ST,False,False,False,False,False,False,True,4,18,Team Daktus Jack,12,Herb Your Enthusiasm,away
+3918298,Josh Allen,QB,BUF,24.91,20.02,QB,True,False,False,False,False,False,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+3116385,Joe Mixon,RB,CIN,18.37,13.2,RB,False,True,False,False,True,False,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+3925357,Calvin Ridley,WR,ATL,13.71,11.5,WR,False,False,True,False,True,False,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+13982,Julio Jones,WR,TEN,0.0,0.0,BE,False,False,True,False,True,False,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+15880,Robert Woods,WR,LAR,11.35,12.8,WR,False,False,True,False,True,False,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+14876,Ryan Tannehill,QB,TEN,16.11,18.82,BE,True,False,False,False,False,False,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+3916148,Tony Pollard,RB,DAL,7.5,6.7,RB/WR/TE,False,True,False,False,True,False,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+3915165,Rodrigo Blankenship,K,IND,7.56,10.0,K,False,False,False,False,False,True,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+4372485,Rondale Moore,WR,ARI,7.81,5.2,BE,False,False,True,False,True,False,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+3122976,Jeff Wilson Jr.,RB,SF,0.0,0.0,IR,False,True,False,False,True,False,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+4046676,Tony Jones Jr.,RB,NO,5.36,1.0,BE,False,True,False,False,True,False,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+4241416,Chuba Hubbard,RB,CAR,12.82,8.1,RB,False,True,False,False,True,False,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+3116164,Mike Gesicki,TE,MIA,6.32,14.2,TE,False,False,False,True,True,False,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+-16015,Dolphins D/ST,D/ST,MIA,7.79,5.0,D/ST,False,False,False,False,False,False,True,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+2976212,Stefon Diggs,WR,BUF,14.3,14.9,WR,False,False,True,False,True,False,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+3045144,Tyler Boyd,WR,CIN,11.64,16.3,BE,False,False,True,False,True,False,False,4,17,Scooty Lewis and the News,2,Rippin' Swigs,home
+3051392,Ezekiel Elliott,RB,DAL,13.77,20.3,RB,False,True,False,False,True,False,False,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
+3042519,Aaron Jones,RB,GB,16.12,9.4,RB,False,True,False,False,True,False,False,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
+14881,Russell Wilson,QB,SEA,20.92,22.56,QB,True,False,False,False,False,False,False,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
+3040151,George Kittle,TE,SF,11.59,6.0,TE,False,False,False,True,True,False,False,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
+16799,Allen Robinson II,WR,CHI,11.34,7.8,WR,False,False,True,False,True,False,False,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
+16339,Brandon McManus,K,DEN,8.71,1.0,K,False,False,False,False,False,True,False,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
+3916433,Jakobi Meyers,WR,NE,11.21,12.8,WR,False,False,True,False,True,False,False,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
+3115394,DJ Chark Jr.,WR,JAX,9.75,0.0,WR,False,False,True,False,True,False,False,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
+4241802,Jalen Reagor,WR,PHI,9.4,2.6,BE,False,False,True,False,True,False,False,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
+2576623,DeVante Parker,WR,MIA,8.68,15.7,BE,False,False,True,False,True,False,False,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
+3916430,Nyheim Hines,RB,IND,9.41,0.1,RB/WR/TE,False,True,False,False,True,False,False,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
+4241555,Elijah Mitchell,RB,SF,0.0,0.0,BE,False,True,False,False,True,False,False,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
+-16011,Colts D/ST,D/ST,IND,7.19,11.0,D/ST,False,False,False,False,False,False,True,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
+2576716,Jamison Crowder,WR,NYJ,8.29,15.6,BE,False,False,True,False,True,False,False,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
+3915411,Ty Johnson,RB,NYJ,7.24,2.3,BE,False,True,False,False,True,False,False,4,2,Rippin' Swigs,17,Scooty Lewis and the News,away
