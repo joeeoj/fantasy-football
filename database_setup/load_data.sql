@@ -22,3 +22,8 @@ COPY lineups
 FROM '../data/lineups_week_05.csv'
 DELIMITER ','
 CSV HEADER;
+
+COPY lineups
+FROM '../data/lineups_week_06.csv'
+DELIMITER ','
+CSV HEADER;
