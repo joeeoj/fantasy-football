@@ -109,7 +109,7 @@ if __name__ == '__main__':
 
     league = League(league_id=LEAGUE_ID, year=YEAR)
     current_week = league.current_week
-    week = current_week if args.week is not None or args.week == current_week else args.week
+    week = current_week if args.week is None or args.week == current_week else args.week
 
     if args.all:
         for week in range(1, current_week+1):
