@@ -39,5 +39,6 @@ SELECT
     ,projected_points
     ,points
     ,points - projected_points as diff
+    ,rank() OVER (PARTITION BY week, pos ORDER BY diff DESC) as pos_point_diff_rank
 FROM lineups
 ;
