@@ -66,8 +66,8 @@ def parse_lineups(box_score: BoxScore, week: int) -> list[BoxPlayer]:
         p['week'] = week
         p['fantasy_team_id'] = home_team.team_id
         p['fantasy_team_name'] = home_team.team_name
-        p['opponent_team_id'] = away_team.team_id
-        p['opponent_team_name'] = away_team.team_name
+        p['opponent_team_id'] = away_team.team_id if away_team != 0 else None
+        p['opponent_team_name'] = away_team.team_name if away_team != 0 else None
         p['home_away'] = 'home'
         players.append(p)
 

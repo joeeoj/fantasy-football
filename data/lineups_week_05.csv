@@ -36,14 +36,14 @@ player_id,player_name,pos,team,projected_points,points,current_position,QB,RB,WR
 3121422,Terry McLaurin,WR,WSH,13.89,6.6,WR,False,False,True,False,True,False,False,5,11,Raiders Are Good,3,Seattle Fantasy Team,home
 3917315,Kyler Murray,QB,ARI,23.83,13.66,QB,True,False,False,False,False,False,False,5,11,Raiders Are Good,3,Seattle Fantasy Team,home
 4361579,Javonte Williams,RB,DEN,9.09,10.1,BE,False,True,False,False,True,False,False,5,11,Raiders Are Good,3,Seattle Fantasy Team,home
-4241475,Henry Ruggs III,WR,OAK,9.71,6.6,WR,False,False,True,False,True,False,False,5,11,Raiders Are Good,3,Seattle Fantasy Team,home
+4241475,Henry Ruggs III,WR,None,9.71,6.6,WR,False,False,True,False,True,False,False,5,11,Raiders Are Good,3,Seattle Fantasy Team,home
 16460,Adam Thielen,WR,MIN,13.0,5.0,WR,False,False,True,False,True,False,False,5,11,Raiders Are Good,3,Seattle Fantasy Team,home
 4360438,Brandon Aiyuk,WR,SF,7.21,4.2,FLEX,False,False,True,False,True,False,False,5,11,Raiders Are Good,3,Seattle Fantasy Team,home
 3025433,Mike Davis,RB,ATL,10.4,11.1,RB,False,True,False,False,True,False,False,5,11,Raiders Are Good,3,Seattle Fantasy Team,home
 -16023,Steelers D/ST,D/ST,PIT,7.42,5.0,D/ST,False,False,False,False,False,False,True,5,11,Raiders Are Good,3,Seattle Fantasy Team,home
 -16002,Bills D/ST,D/ST,BUF,5.32,17.0,BE,False,False,False,False,False,False,True,5,11,Raiders Are Good,3,Seattle Fantasy Team,home
 3051909,Daniel Carlson,K,OAK,8.47,3.0,K,False,False,False,False,False,True,False,5,11,Raiders Are Good,3,Seattle Fantasy Team,home
-13981,Mark Ingram II,RB,HOU,7.67,4.1,BE,False,True,False,False,True,False,False,5,11,Raiders Are Good,3,Seattle Fantasy Team,home
+13981,Mark Ingram II,RB,NO,7.67,4.1,BE,False,True,False,False,True,False,False,5,11,Raiders Are Good,3,Seattle Fantasy Team,home
 3916566,K.J. Osborn,WR,MIN,8.0,2.9,BE,False,False,True,False,True,False,False,5,11,Raiders Are Good,3,Seattle Fantasy Team,home
 15795,DeAndre Hopkins,WR,ARI,12.47,17.7,WR,False,False,True,False,True,False,False,5,3,Seattle Fantasy Team,11,Raiders Are Good,away
 3068267,Austin Ekeler,RB,LAC,14.66,30.4,RB,False,True,False,False,True,False,False,5,3,Seattle Fantasy Team,11,Raiders Are Good,away
@@ -127,7 +127,7 @@ player_id,player_name,pos,team,projected_points,points,current_position,QB,RB,WR
 3043078,Derrick Henry,RB,TEN,20.56,31.0,RB,False,True,False,False,True,False,False,5,16,Montana 13 Washington 7,17,Scooty Lewis and the News,home
 4259545,D'Andre Swift,RB,DET,14.29,19.4,RB,False,True,False,False,True,False,False,5,16,Montana 13 Washington 7,17,Scooty Lewis and the News,home
 4035538,David Montgomery,RB,CHI,0.0,0.0,BE,False,True,False,False,True,False,False,5,16,Montana 13 Washington 7,17,Scooty Lewis and the News,home
-16733,Odell Beckham Jr.,WR,CLE,10.79,3.0,BE,False,False,True,False,True,False,False,5,16,Montana 13 Washington 7,17,Scooty Lewis and the News,home
+16733,Odell Beckham Jr.,WR,LAR,10.79,3.0,BE,False,False,True,False,True,False,False,5,16,Montana 13 Washington 7,17,Scooty Lewis and the News,home
 4239993,Tee Higgins,WR,CIN,11.49,7.7,WR,False,False,True,False,True,False,False,5,16,Montana 13 Washington 7,17,Scooty Lewis and the News,home
 4241463,Jerry Jeudy,WR,DEN,0.0,0.0,IR,False,False,True,False,True,False,False,5,16,Montana 13 Washington 7,17,Scooty Lewis and the News,home
 4241478,DeVonta Smith,WR,PHI,10.63,11.2,WR,False,False,True,False,True,False,False,5,16,Montana 13 Washington 7,17,Scooty Lewis and the News,home

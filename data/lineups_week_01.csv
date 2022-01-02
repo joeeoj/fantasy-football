@@ -2,7 +2,7 @@ player_id,player_name,pos,team,projected_points,points,current_position,QB,RB,WR
 3043078,Derrick Henry,RB,TEN,16.53,9.2,RB,False,True,False,False,True,False,False,1,16,Montana 13 Washington 7,19,Federal Way Yu,home
 4259545,D'Andre Swift,RB,DET,11.63,20.4,RB,False,True,False,False,True,False,False,1,16,Montana 13 Washington 7,19,Federal Way Yu,home
 4035538,David Montgomery,RB,CHI,13.47,18.3,FLEX,False,True,False,False,True,False,False,1,16,Montana 13 Washington 7,19,Federal Way Yu,home
-16733,Odell Beckham Jr.,WR,CLE,0.0,0.0,WR,False,False,True,False,True,False,False,1,16,Montana 13 Washington 7,19,Federal Way Yu,home
+16733,Odell Beckham Jr.,WR,LAR,0.0,0.0,WR,False,False,True,False,True,False,False,1,16,Montana 13 Washington 7,19,Federal Way Yu,home
 4239993,Tee Higgins,WR,CIN,10.26,13.8,WR,False,False,True,False,True,False,False,1,16,Montana 13 Washington 7,19,Federal Way Yu,home
 4241463,Jerry Jeudy,WR,DEN,10.13,10.2,WR,False,False,True,False,True,False,False,1,16,Montana 13 Washington 7,19,Federal Way Yu,home
 4241478,DeVonta Smith,WR,PHI,9.87,16.1,BE,False,False,True,False,True,False,False,1,16,Montana 13 Washington 7,19,Federal Way Yu,home
@@ -23,7 +23,7 @@ player_id,player_name,pos,team,projected_points,points,current_position,QB,RB,WR
 4362628,Ja'Marr Chase,WR,CIN,8.53,18.4,WR,False,False,True,False,True,False,False,1,19,Federal Way Yu,16,Montana 13 Washington 7,away
 4036348,Michael Gallup,WR,DAL,10.45,5.6,WR,False,False,True,False,True,False,False,1,19,Federal Way Yu,16,Montana 13 Washington 7,away
 3124679,Jason Sanders,K,MIA,7.82,6.0,K,False,False,False,False,False,True,False,1,19,Federal Way Yu,16,Montana 13 Washington 7,away
-3052117,Phillip Lindsay,RB,HOU,7.56,8.5,BE,False,True,False,False,True,False,False,1,19,Federal Way Yu,16,Montana 13 Washington 7,away
+3052117,Phillip Lindsay,RB,MIA,7.56,8.5,BE,False,True,False,False,True,False,False,1,19,Federal Way Yu,16,Montana 13 Washington 7,away
 2508176,David Johnson,RB,HOU,6.86,10.3,FLEX,False,True,False,False,True,False,False,1,19,Federal Way Yu,16,Montana 13 Washington 7,away
 2572861,J.D. McKissic,RB,WSH,7.62,0.8,BE,False,True,False,False,True,False,False,1,19,Federal Way Yu,16,Montana 13 Washington 7,away
 14053,Randall Cobb,WR,GB,7.11,3.8,BE,False,False,True,False,True,False,False,1,19,Federal Way Yu,16,Montana 13 Washington 7,away
@@ -111,14 +111,14 @@ player_id,player_name,pos,team,projected_points,points,current_position,QB,RB,WR
 3121422,Terry McLaurin,WR,WSH,12.37,8.2,WR,False,False,True,False,True,False,False,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
 3917315,Kyler Murray,QB,ARI,22.17,33.56,QB,True,False,False,False,False,False,False,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
 4361579,Javonte Williams,RB,DEN,7.75,4.6,BE,False,True,False,False,True,False,False,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
-4241475,Henry Ruggs III,WR,OAK,8.51,5.6,FLEX,False,False,True,False,True,False,False,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
+4241475,Henry Ruggs III,WR,None,8.51,5.6,FLEX,False,False,True,False,True,False,False,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
 16460,Adam Thielen,WR,MIN,12.05,25.7,WR,False,False,True,False,True,False,False,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
 4360438,Brandon Aiyuk,WR,SF,11.71,0.0,WR,False,False,True,False,True,False,False,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
 3025433,Mike Davis,RB,ATL,12.86,8.7,RB,False,True,False,False,True,False,False,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
 -16023,Steelers D/ST,D/ST,PIT,6.32,15.0,BE,False,False,False,False,False,False,True,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
-2587819,Tyrell Williams,WR,DET,8.33,2.4,BE,False,False,True,False,True,False,False,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
+2587819,Tyrell Williams,WR,None,8.33,2.4,BE,False,False,True,False,True,False,False,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
 12460,Graham Gano,K,NYG,7.81,1.0,K,False,False,False,False,False,True,False,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
-15825,Le'Veon Bell,RB,BAL,1.86,0.0,BE,False,True,False,False,True,False,False,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
+15825,Le'Veon Bell,RB,TB,1.86,0.0,BE,False,True,False,False,True,False,False,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
 -16016,Vikings D/ST,D/ST,MIN,8.04,5.0,D/ST,False,False,False,False,False,False,True,1,11,Raiders Are Good,17,Scooty Lewis and the News,away
 4038941,Justin Herbert,QB,LAC,17.8,13.38,BE,True,False,False,False,False,False,False,1,12,Herb Your Enthusiasm,10,Spenny Willy,home
 3128720,Nick Chubb,RB,CLE,14.15,21.1,RB,False,True,False,False,True,False,False,1,12,Herb Your Enthusiasm,10,Spenny Willy,home

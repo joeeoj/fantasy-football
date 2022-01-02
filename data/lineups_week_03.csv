@@ -53,19 +53,19 @@ player_id,player_name,pos,team,projected_points,points,current_position,QB,RB,WR
 3121422,Terry McLaurin,WR,WSH,12.44,8.2,WR,False,False,True,False,True,False,False,3,11,Raiders Are Good,1,Fully  Maccinated,away
 3917315,Kyler Murray,QB,ARI,24.92,18.54,QB,True,False,False,False,False,False,False,3,11,Raiders Are Good,1,Fully  Maccinated,away
 4361579,Javonte Williams,RB,DEN,8.28,11.7,FLEX,False,True,False,False,True,False,False,3,11,Raiders Are Good,1,Fully  Maccinated,away
-4241475,Henry Ruggs III,WR,OAK,9.55,10.5,WR,False,False,True,False,True,False,False,3,11,Raiders Are Good,1,Fully  Maccinated,away
+4241475,Henry Ruggs III,WR,None,9.55,10.5,WR,False,False,True,False,True,False,False,3,11,Raiders Are Good,1,Fully  Maccinated,away
 16460,Adam Thielen,WR,MIN,12.6,14.0,WR,False,False,True,False,True,False,False,3,11,Raiders Are Good,1,Fully  Maccinated,away
 4360438,Brandon Aiyuk,WR,SF,6.5,12.5,BE,False,False,True,False,True,False,False,3,11,Raiders Are Good,1,Fully  Maccinated,away
 3025433,Mike Davis,RB,ATL,11.93,9.0,RB,False,True,False,False,True,False,False,3,11,Raiders Are Good,1,Fully  Maccinated,away
 -16023,Steelers D/ST,D/ST,PIT,8.4,4.0,BE,False,False,False,False,False,False,True,3,11,Raiders Are Good,1,Fully  Maccinated,away
 -16002,Bills D/ST,D/ST,BUF,8.5,10.0,D/ST,False,False,False,False,False,False,True,3,11,Raiders Are Good,1,Fully  Maccinated,away
 3051909,Daniel Carlson,K,OAK,8.84,13.0,K,False,False,False,False,False,True,False,3,11,Raiders Are Good,1,Fully  Maccinated,away
-13981,Mark Ingram II,RB,HOU,9.41,2.5,BE,False,True,False,False,True,False,False,3,11,Raiders Are Good,1,Fully  Maccinated,away
+13981,Mark Ingram II,RB,NO,9.41,2.5,BE,False,True,False,False,True,False,False,3,11,Raiders Are Good,1,Fully  Maccinated,away
 3916566,K.J. Osborn,WR,MIN,9.27,3.6,BE,False,False,True,False,True,False,False,3,11,Raiders Are Good,1,Fully  Maccinated,away
 3043078,Derrick Henry,RB,TEN,19.29,17.9,RB,False,True,False,False,True,False,False,3,16,Montana 13 Washington 7,10,Spenny Willy,home
 4259545,D'Andre Swift,RB,DET,12.46,20.2,RB,False,True,False,False,True,False,False,3,16,Montana 13 Washington 7,10,Spenny Willy,home
 4035538,David Montgomery,RB,CHI,13.32,6.5,FLEX,False,True,False,False,True,False,False,3,16,Montana 13 Washington 7,10,Spenny Willy,home
-16733,Odell Beckham Jr.,WR,CLE,10.38,11.2,WR,False,False,True,False,True,False,False,3,16,Montana 13 Washington 7,10,Spenny Willy,home
+16733,Odell Beckham Jr.,WR,LAR,10.38,11.2,WR,False,False,True,False,True,False,False,3,16,Montana 13 Washington 7,10,Spenny Willy,home
 4239993,Tee Higgins,WR,CIN,0.0,0.0,BE,False,False,True,False,True,False,False,3,16,Montana 13 Washington 7,10,Spenny Willy,home
 4241463,Jerry Jeudy,WR,DEN,0.0,0.0,BE,False,False,True,False,True,False,False,3,16,Montana 13 Washington 7,10,Spenny Willy,home
 4241478,DeVonta Smith,WR,PHI,10.24,4.3,WR,False,False,True,False,True,False,False,3,16,Montana 13 Washington 7,10,Spenny Willy,home
