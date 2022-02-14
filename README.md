@@ -64,6 +64,36 @@ Parses the [ESPN Live Draft Trends](https://fantasy.espn.com/football/livedraftr
 
 ----------
 
+## 2021-2022 season final results
+
+**3rd place**
+
+I didn't hit my goal but I'm pretty happy with this, especially with how much I learned this year.
+
+I ended the regular season tied with the best record which gave me a first round bye and in that bye week I put up a lot more points than most other teams. Unfortunately I lost my next match up by around 9 points because DeVante Parker put up a donut and Tyreek Hill had a terrible showing (3ish points), most likely from continued fatigue because he had COVID the previous week.
+
+If I had pulled out a win in the second round of the playoffs I still would have lost in the final round, but it would have been a good match. I would have scored 150 points which is a phenomenal showing in half PPR but the ultimate winner of our league had 180 points the last game. It was a historic end to the season and well deserved with players like Burrow and J.Taylor on his roster.
+
+### positives
+
+* Prepping for draft day is a good idea (duh) and resulted in a much better outcome
+* Week-to-week roster management was better, though I did continually have the Rodgers/Mahomes conundrum
+* Picking up Justin Jackson in week 16 got me the win, hands down
+* Juggling defenses week-to-week felt weird but was the way to go
+* Good resources:
+    * FantasyPros - I used their expert consensus rankings a lot and also listened to their main podcast every week
+    * Fantasy Football Today in 5 (CBS Sports) - This podcast is great because it is quick. It helped me keep a few names in my head of players to watch out for and with upcoming defense match ups
+    * Fantasy Football Advice - I started listening to this podcast part way through the season. I thought it provided good advice and if I had the time to listen to both this and FantasyPros, it was helpful to have overlapping and conflicting opinions on players
+
+### negatives
+
+* I could have looked ahead a week or two and stashed defenses better, especially this year where some of the mismatches resulted in huge defensive points
+* learn how to trade - I think I only took one trade opportunity and potentially had one near the trade deadline that would have set me up for success in the post-season. I also didn't initiate any trades myself. I need to get over the feeling of getting the wrong end of a deal and make trade assessments on the best information I can find.
+    * For example I should have traded Kareem Hunt when we was overperforming but instead I held onto him until he got hurt
+    * Same goes for Tyreek, though I think he would've have finished the season much better had he not gotten COVID
+
+----------
+
 ## draft day resources
 
 * `data/cheatsheet_2021.csv` - ESPN draft data merged with FantasyPros recommendations
